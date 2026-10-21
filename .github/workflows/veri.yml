@@ -1,0 +1,209 @@
+name: Veri güncelle
+
+# KPSS Radar'ın sunucu tarafı ilan listesi. Saatte bir İlan.gov.tr ve haberler, 2 saatte bir
+# İŞKUR, 3 saatte bir Resmî Gazete okunur; sonuç GitHub Pages'te (gh-pages dalı) yayımlanır
+# ve bildirimi açık telefonlara "kontrol et" sinyali gönderilir. Toplayıcı kodu gizli
+# kpss-radar deposundadır ve salt-okunur KAYNAK_ANAHTARI ile çekilir. Bu depo herkese açık
+# olduğu için GitHub Actions dakikaları ücretsizdir.
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veri
+  cancel-in-progress: false
+
+env:
+  PAGES: https://muhammeddddddd.github.io/kpss-radar-veri
+
+jobs:
+  plan:
+    runs-on: ubuntu-24.04
+    outputs:
+      iskur: ${{ steps.p.outputs.iskur }}
+      gazette: ${{ steps.p.outputs.gazette }}
+    steps:
+      - id: p
+        run: |
+          h=$((10#$(date -u +%H)))
+          manual=${{ github.event_name == 'workflow_dispatch' }}
+          echo "iskur=$([ "$manual" = true ] || [ $((h % 2)) -eq 0 ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+          echo "gazette=$([ "$manual" = true ] || [ $((h % 3)) -eq 0 ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+
+  iskur:
+    needs: plan
+    if: needs.plan.outputs.iskur == 'true'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: Muhammeddddddd/kpss-radar
+          ssh-key: ${{ secrets.KAYNAK_ANAHTARI }}
+          path: src
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: PDF ve Türkçe OCR okuyucular
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-tur
+          pip install -q -r src/backend/requirements.txt
+      - name: Önceki kayıt
+        run: curl -fsS "$PAGES/raw/iskur_index.json" -o src/backend/data/iskur_index.json || true
+      - name: İŞKUR listesi ve PDF formları
+        env:
+          OMP_THREAD_LIMIT: '1'
+        run: mkdir -p /tmp/out && cd src/backend && python iskur_dates.py --output /tmp/out/iskur_index.json --language tur
+      - name: Doğrula
+        run: |
+          cd src/backend
+          python - <<'PY'
+          import json
+          from iskur_dates import snapshot_records
+          rows = json.load(open('/tmp/out/iskur_index.json'))['records']
+          valid = snapshot_records('/tmp/out/iskur_index.json')
+          assert rows and len(valid) == len(rows), (len(valid), len(rows))
+          print(len(rows), 'açık İŞKUR ilanı doğrulandı')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: iskur
+          path: /tmp/out/iskur_index.json
+          retention-days: 2
+
+  gazette:
+    needs: plan
+    if: needs.plan.outputs.gazette == 'true'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: Muhammeddddddd/kpss-radar
+          ssh-key: ${{ secrets.KAYNAK_ANAHTARI }}
+          path: src
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: PDF ve Türkçe OCR okuyucular
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-tur
+          pip install -q -r src/backend/requirements.txt
+      - name: Önceki kayıt ve arşiv ilerlemesi
+        run: curl -fsS "$PAGES/raw/gazette_index.json" -o src/backend/data/gazette_index.json || true
+      - name: Bugünkü sayı, tekrarlar ve arşiv günleri
+        env:
+          RADAR_GAZETTE_OCR: '1'
+          RADAR_GAZETTE_BATCH_DAYS: '15'
+        run: mkdir -p /tmp/out && cd src/backend && python collect_gazette.py --output /tmp/out/gazette_index.json --audit /tmp/gazette-audit.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: gazette
+          path: /tmp/out/gazette_index.json
+          retention-days: 2
+
+  ilan:
+    needs: plan
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: Muhammeddddddd/kpss-radar
+          ssh-key: ${{ secrets.KAYNAK_ANAHTARI }}
+          path: src
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -q -r src/backend/requirements.txt
+      - name: İlan.gov.tr personel kategorisi
+        run: mkdir -p /tmp/out && cd src/backend && python ilan_collect.py /tmp/out/ilan_index.json /tmp/ilan-audit.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ilan
+          path: /tmp/out/ilan_index.json
+          retention-days: 2
+
+  news:
+    needs: plan
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: Muhammeddddddd/kpss-radar
+          ssh-key: ${{ secrets.KAYNAK_ANAHTARI }}
+          path: src
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Önceki arşiv
+        run: curl -fsS "$PAGES/raw/news_index.json" -o src/backend/data/news_index.json || true
+      - name: Haber kaynakları
+        run: mkdir -p /tmp/out && cd src && node --experimental-default-type=module scripts/collect_news.mjs backend/data/news_index.json /tmp/out/news_index.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: news
+          path: /tmp/out/news_index.json
+          retention-days: 2
+
+  publish:
+    needs: [plan, iskur, gazette, ilan, news]
+    if: always() && needs.plan.result == 'success'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: Muhammeddddddd/kpss-radar
+          ssh-key: ${{ secrets.KAYNAK_ANAHTARI }}
+          path: src
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -q -r src/backend/requirements.txt
+      - name: Önceki kayıtlar (okunamayan kaynak eskisini korur)
+        run: |
+          for f in iskur_index gazette_index ilan_index news_index; do
+            curl -fsS "$PAGES/raw/$f.json" -o "src/backend/data/$f.json" || true
+          done
+      - uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          path: /tmp/new
+          merge-multiple: true
+      - name: Yeni kayıtlar
+        run: |
+          cp /tmp/new/*.json src/backend/data/ 2>/dev/null || true
+          ls -la src/backend/data
+      - name: Statik dosyalar
+        run: cd src/backend && KPSS_LOCAL_DATA=1 python build_static.py "$GITHUB_WORKSPACE/site"
+      - name: GitHub Pages'e yayınla
+        run: |
+          cd site
+          touch .nojekyll
+          echo '<!doctype html><meta charset="utf-8"><title>KPSS Radar veri</title><p>KPSS Radar uygulamasının saatlik ilan listesi. Resmî kurumlarla bağlantısı yoktur; başvurular kurumların resmî sitelerinden yapılır.</p>' > index.html
+          git init -q -b gh-pages
+          git add -A
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -qm "Veri $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" gh-pages
+          cat version.json
+      - name: Telefonlara sinyal
+        run: |
+          sleep 90
+          for i in 1 2 3; do
+            curl -fsS --max-time 90 -X POST https://kpss-radar-api.onrender.com/api/push/tick && exit 0
+            sleep 20
+          done
+          echo "::warning::Sinyal gönderilemedi; telefonlar kendi zamanlayıcısıyla kontrol eder."
