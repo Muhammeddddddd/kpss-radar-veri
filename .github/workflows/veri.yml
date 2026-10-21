@@ -7,7 +7,9 @@ name: Veri güncelle
 # olduğu için GitHub Actions dakikaları ücretsizdir.
 on:
   schedule:
-    - cron: '17 * * * *'
+    # Three tries an hour: GitHub sometimes drops scheduled runs; a try skips itself when the
+    # data was published less than 40 minutes ago.
+    - cron: '7,27,47 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -24,6 +26,7 @@ jobs:
   plan:
     runs-on: ubuntu-24.04
     outputs:
+      run: ${{ steps.p.outputs.run }}
       iskur: ${{ steps.p.outputs.iskur }}
       gazette: ${{ steps.p.outputs.gazette }}
     steps:
@@ -31,12 +34,20 @@ jobs:
         run: |
           h=$((10#$(date -u +%H)))
           manual=${{ github.event_name == 'workflow_dispatch' }}
+          run=true
+          if [ "$manual" != true ]; then
+            last=$(curl -fsS "$PAGES/version.json?t=$(date +%s)" | python3 -c 'import sys, json, datetime; print(int(datetime.datetime.fromisoformat(json.load(sys.stdin)["updated_at"]).timestamp()))' || echo 0)
+            age=$(( $(date +%s) - last ))
+            echo "Son yayın $age saniye önce"
+            if [ "$age" -lt 2400 ]; then run=false; fi
+          fi
+          echo "run=$run" >> "$GITHUB_OUTPUT"
           echo "iskur=$([ "$manual" = true ] || [ $((h % 2)) -eq 0 ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
           echo "gazette=$([ "$manual" = true ] || [ $((h % 3)) -eq 0 ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
 
   iskur:
     needs: plan
-    if: needs.plan.outputs.iskur == 'true'
+    if: needs.plan.outputs.run == 'true' && needs.plan.outputs.iskur == 'true'
     runs-on: ubuntu-24.04
     timeout-minutes: 40
     steps:
@@ -79,7 +90,7 @@ jobs:
 
   gazette:
     needs: plan
-    if: needs.plan.outputs.gazette == 'true'
+    if: needs.plan.outputs.run == 'true' && needs.plan.outputs.gazette == 'true'
     runs-on: ubuntu-24.04
     timeout-minutes: 50
     steps:
@@ -112,6 +123,7 @@ jobs:
 
   ilan:
     needs: plan
+    if: needs.plan.outputs.run == 'true'
     runs-on: ubuntu-24.04
     timeout-minutes: 15
     steps:
@@ -135,6 +147,7 @@ jobs:
 
   news:
     needs: plan
+    if: needs.plan.outputs.run == 'true'
     runs-on: ubuntu-24.04
     timeout-minutes: 10
     steps:
@@ -159,7 +172,7 @@ jobs:
 
   publish:
     needs: [plan, iskur, gazette, ilan, news]
-    if: always() && needs.plan.result == 'success'
+    if: always() && needs.plan.result == 'success' && needs.plan.outputs.run == 'true'
     runs-on: ubuntu-24.04
     timeout-minutes: 15
     steps:
