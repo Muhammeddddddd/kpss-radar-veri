@@ -1,0 +1,4085 @@
+{
+  "schema_version": 3,
+  "checked_at": "2026-10-24T04:03:01.138216+03:00",
+  "coverage": {
+    "province_count": 33,
+    "failed_provinces": [],
+    "listed_open": 96,
+    "records": 94,
+    "dated": 22,
+    "outcomes": {
+      "form_without_dates": 33,
+      "dated_form": 22,
+      "form_without_publication_day": 39,
+      "closed_by_form": 2
+    }
+  },
+  "records": [
+    {
+      "url": "https://www.iskur.gov.tr/medya/vfbja10f/muğla-menteşe-belediyesi-personel-ltdşti-03112026.pdf",
+      "title": "Çöpçü — Kurum Dışı Kamu İşçi Alım İlanı – Muğla Menteşe Belediyesi Personel Ltd.Şti.-03.11.2026",
+      "deadline": "2026-11-03",
+      "deadline_at": "2026-11-03T17:30:00+03:00",
+      "city": "Muğla",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "e75d340691975ac42d89dba0f518f237f198a54578c8d005e791a2c567c80f99",
+      "application_start": "2026-11-02",
+      "occupation": "Çöpçü",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans",
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [
+          "makine muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Muğla"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/bnvdtdeu/kitas.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Küçükçekmece İnşaat Taah. San. ve Tic. A.Ş.",
+      "deadline": "2026-10-27",
+      "deadline_at": "2026-10-27T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "4b85aa11bff55ab4e0b3869269d63b2cb0f437888d924684f1c2792029d62088",
+      "application_start": "2026-10-26",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/bg5frsve/anet.pdf",
+      "title": "Steward — Kurum Dışı Kamu İşçi Alım İlanı – ANET Antalya İnşaat Tur. San. ve Tic. A.Ş. (Engelli)",
+      "deadline": "2026-10-27",
+      "deadline_at": "2026-10-27T17:30:00+03:00",
+      "city": "Antalya",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "294b7a0f079a50f7774062bb87cec182daa6521dc416d162dfac584dd69139b1",
+      "application_start": "2026-10-26",
+      "occupation": "Steward",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Ortaöğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Antalya"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/21gi0kak/doc13577120261023153834.pdf",
+      "title": "TEMİZLİK İŞÇİSİ — Kurum Dışı Kamu İşçi Alım İlanı – Kütahya Tunçbilek Belediyesi Tunçbel Mad.San.Tic.Ltd.Şti. 27.10.2026",
+      "deadline": "2026-10-27",
+      "deadline_at": "2026-10-27T17:00:00+03:00",
+      "city": "Kütahya",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "a56e7fc84215dd5ecd0a47a3d571475a4b06c1d26d09f53dad8f35d697eda80c",
+      "application_start": "2026-10-26",
+      "occupation": "TEMİZLİK İŞÇİSİ",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Ehliyet",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Kütahya"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/yxdjyou3/etimkent-23-ekim-2026-ilan.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – ETİMKENT YAPI MADEN SAN. VE TİC. A.Ş.",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "5a7bd4369eca8545a64482ce973ff81a746f384ce5ba3ff7544dcc4b54720bfb",
+      "application_start": "2026-10-24",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/u2hpbxaz/denizli-peraş-denizli-bueyuekşehir-belediyesi-personel-tem-ulaşım-san-ve-ticaş-2.pdf",
+      "title": "ENDÜSTRİ MÜHENDİSİ — Kurum Dışı Kamu İşçi Alım İlanı – Denizli Peraş Denizli Büyükşehir Belediyesi Personel Tem. Ulaşım San. ve Tic.A.Ş.",
+      "deadline": "2026-10-27",
+      "deadline_at": "2026-10-28T00:00:00+03:00",
+      "city": "Denizli",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "36110b741cfd30bea8302dba68a7a55df375a525db53955daf9fcfd6b27a262e",
+      "date_warning": "Liste tarihi 2026-10-28; formdaki daha erken son başvuru tarihi esas alındı: 2026-10-27",
+      "application_start": "2026-10-24",
+      "occupation": "ENDÜSTRİ MÜHENDİSİ",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Denizli"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/0qthaofe/belpa-24-ekim.pdf",
+      "title": "BÜRO PERSONELİ — Kurum Dışı Kamu İşçi Alım İlanı – BEL-PA ANKARA EĞT. SAĞ. HİZ. İNŞ. ENERJİ GIDA TEM. İTH. İHR. TİC. A.Ş.",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "fd1bcaa3ac00da38735fd2ae12513ed54072eafb31e7d9807a6966ce638b78e9",
+      "application_start": "2026-10-24",
+      "occupation": "BÜRO PERSONELİ",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/zvpbfrel/burdur-çavdır-temizlik-hiz-inş-san-ve-tic-ltd-şti-30102026.pdf",
+      "title": "Fırıncı Ustası Unlu Mamuller — Kurum Dışı Kamu İşçi Alım İlanı – Burdur Çavdır Temizlik Hiz. İnş. San. ve Tic. Ltd. Şti. 30.10.2026",
+      "deadline": "2026-10-30",
+      "deadline_at": "2026-10-30T23:59:00+03:00",
+      "city": "Burdur",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-23",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "e433b8081892f2c8c44700c5657a5dbfdb92a5eed8614e8eb5751876d2d07cff",
+      "application_start": "2026-10-23",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-23",
+      "occupation": "Fırıncı Ustası Unlu Mamuller",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Burdur"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/smbph3ay/kurum-dışı-kamu-işçi-alımı_ek_kurum-dışı-kamu-işçi-alımı-ilan-formları.pdf",
+      "title": "Tır Çekici Şoförü — Kurum Dışı Kamu İşçi Alım İlanı – İstanbul Çevre Yönetimi San. Ve Tic. A.Ş. (İSTAÇ A.Ş.)",
+      "deadline": "2026-10-30",
+      "deadline_at": "2026-10-30T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-23",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "73fb7de58c94051badcc7f5ee9181ab8c1b98d073fc5267a63b5b01a86be997d",
+      "application_start": "2026-10-23",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-23",
+      "occupation": "Tır Çekici Şoförü",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Ehliyet",
+          "Deneyim"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/pz5gno2o/muğla-marmaris-belediyesi-personel-aş-30102026.pdf",
+      "title": "Makas Tamircisi — Kurum Dışı Kamu İşçi Alım İlanı – Muğla Marmaris Belediyesi Personel A.Ş.-30.10.2026",
+      "deadline": "2026-10-30",
+      "deadline_at": "2026-10-30T17:30:00+03:00",
+      "city": "Muğla",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-23",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "e1870a32d9da39278943d3472ccf8a24a2363d6c4caf1be84ecc4211f9a9f98d",
+      "application_start": "2026-10-26",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-23",
+      "occupation": "Makas Tamircisi",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Muğla"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/lj0lf4qi/burdur-bucak-beld-akr-hiz-san-tic-aş-27102026.pdf",
+      "title": "Akaryakıt Satış Görevlisi — Kurum Dışı Kamu İşçi Alım İlanı – Burdur Bucak Beld. Akr. Hiz. San. Tic. A.Ş 27.10.2026",
+      "deadline": "2026-10-27",
+      "deadline_at": "2026-10-27T23:59:00+03:00",
+      "city": "Burdur",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "a2cbeaa225a00e9658e1092cd1d6df0edfa05d5ec26ca6d6bdf348bc5dbfeb40",
+      "application_start": "2026-10-23",
+      "occupation": "Akaryakıt Satış Görevlisi",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Burdur"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/fmann44x/helvbeldpersltdşti.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Helvadere Belediyesi Personel Limited Şirketi 25.10.2026",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T23:59:00+03:00",
+      "city": "Aksaray",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "ffec73d3f758d12ff2793b8e6fc6721fb0f02fa4e0f0999f57b833d72bfdb8eb",
+      "application_start": "2026-10-23",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Aksaray"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/evljoop5/sivas-suşehri-belediyesi-bel-su-aş-28102026.pdf",
+      "title": "Beden İşçisi Açık İş — Kurum Dışı Kamu İşçi Alım İlanı – Sivas Suşehri Belediyesi Bel-Su A.Ş. 28.10.2026",
+      "deadline": "2026-10-28",
+      "deadline_at": "2026-10-28T17:00:00+03:00",
+      "city": "Sivas",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-23",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "5ad0c1c872f75cb866ec1102581ab793c231a5716a0b31b0b5d4042695e9bc5c",
+      "application_start": "2026-10-23",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-23",
+      "occupation": "Beden İşçisi Açık İş",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Sivas"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/5ajdrb4x/kurum-dışı-işçi-alımı-yeditepe-yapı-danışmanlık-inş-san-tic-aş_ek_41843-2.pdf",
+      "title": "MAKAM ŞOFÖRÜ — Kurum Dışı Kamu İşçi Alım İlanı – Yeditepe Yapı Danışmanlık İnş. San. ve Tic. A.Ş.",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "b235be5c578110ac853c3dc6076904e1c89a3b7234c7b6ee76ed95cd38e01142",
+      "application_start": "2026-10-23",
+      "occupation": "MAKAM ŞOFÖRÜ",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/xxopf0c3/harmancık-belediyesi-personel-aş-22102026.pdf",
+      "title": "Temizlik İşçisi — Kurum Dışı Kamu İşçi Alım İlanı – Bursa Harmancık Belediyesi Personel A.Ş 25.10.2026",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T17:00:00+03:00",
+      "city": "Bursa",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "205cc057d9dfdb55c6abee6fdb1e59a92458e482c2f5b349ee6a38bbec210b22",
+      "application_start": "2026-10-22",
+      "occupation": "Temizlik İşçisi",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Bursa"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/xrubyddn/afyonkarahisar-yuentaş-akaryakıt-gıda-içecek-turizm-mermer-elektrik-nak-santic-aş-28102026.pdf",
+      "title": "Özel Eğitim Öğretmeni — Kurum Dışı Kamu İşçi Alım İlanı – Afyonkarahisar Yüntaş Akaryakıt Gıda İçecek Turizm Mermer Elektrik Nak. San.Tic. AŞ. 28.10.2026",
+      "deadline": "2026-10-28",
+      "deadline_at": "2026-10-29T00:00:00+03:00",
+      "city": "Afyonkarahisar",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "631e68936fd5bd9a3325425499e1e961b9381ff09aa5c49474df518e92450f36",
+      "date_warning": "Liste tarihi 2026-10-29; formdaki daha erken son başvuru tarihi esas alındı: 2026-10-28",
+      "application_start": "2026-10-22",
+      "occupation": "Özel Eğitim Öğretmeni",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Afyonkarahisar"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/xklhfrq4/bursa-belkar-temturakarnaktarinşorgsan-ve-ticltdşti-24102026.pdf",
+      "title": "İş Makinesi Operatörü — Kurum Dışı Kamu İşçi Alım İlanı – Bursa Belkar Tem.Tur.Akar.Nak.Tar.İnş.Org.San. ve Tic.Ltd.Şti. 24.10.2026",
+      "deadline": "2026-10-24",
+      "deadline_at": "2026-10-24T17:00:00+03:00",
+      "city": "Bursa",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-22",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "827f32fe1cc79d4a932e2a36a26a0d7cbefe49e218554c6ef2d953c303dbcf6a",
+      "application_start": "2026-10-23",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-22",
+      "occupation": "İş Makinesi Operatörü",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Ehliyet",
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Bursa"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/irngykwb/s22c-826102309430.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Eskişehir İnönü Belediyesi Personel Ltd.Şti. 25.10.2026",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-26T00:00:00+03:00",
+      "city": "Eskişehir",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-22",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "c3be411e76753078464b27d6ad02dc9795a692ee65acc76c0ab732e9e60c2bd0",
+      "date_warning": "Liste tarihi 2026-10-26; formdaki daha erken son başvuru tarihi esas alındı: 2026-10-25",
+      "application_start": "2026-10-23",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-22",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Ehliyet",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Eskişehir"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/gl5p5xb2/sakarı-27-ekim.pdf",
+      "title": "BEDEN İŞÇİSİ — Kurum Dışı Kamu İşçi Alım İlanı – SAKARI NAKLİYE PAZARLAMA TİCARET LİMİTED ŞİRKETİ 27.10.2026",
+      "deadline": "2026-10-27",
+      "deadline_at": "2026-10-28T00:00:00+03:00",
+      "city": "Eskişehir",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-22",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "30bda0bc5c580e277879e69cc2e7dd1a5bdf118461c77c908aa950847325dce4",
+      "date_warning": "Liste tarihi 2026-10-28; formdaki daha erken son başvuru tarihi esas alındı: 2026-10-27",
+      "application_start": "2026-10-23",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-22",
+      "occupation": "BEDEN İŞÇİSİ",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Eskişehir"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/fxbhqn0i/sarbel-ueretim-ve-gıda-ltd-şti-25102026.pdf",
+      "title": "Servis Elemanı — Kurum Dışı Kamu İşçi Alım İlanı – Sarbel Üretim ve Gıda Limited Şirketi - 25.10.2026",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T17:30:00+03:00",
+      "city": "Manisa",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-22",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "d1ca1e35aed118783b213c78952a603567ae9925638f9bbd6f9b6b4e45daa0f4",
+      "application_start": "2026-10-23",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-22",
+      "occupation": "Servis Elemanı",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Manisa"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/eu5j4zor/11721853.pdf",
+      "title": "BİLGİ İŞLEM UZMAN YARDIMCISI — Kurum Dışı Kamu İşçi Alım İlanı – İsper İstanbul Personel Yönetim A.Ş.",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-22",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "6612b1322d90b9995676c109345ac4790a9bb9b8ad35c26d88e89d9cbc9449a8",
+      "application_start": "2026-10-23",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-22",
+      "occupation": "BİLGİ İŞLEM UZMAN YARDIMCISI",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/czbnoleb/ekskavatoer-işçi-alimi-ilan-formu.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Kımyaybel İnşaat San. Ve Temizlik Hizmetleri Tic.Şti",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T23:59:00+03:00",
+      "city": "İzmir",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_text",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "866b881d6aa28b92f37e2668d27ddbf5a893e6e3199af0137783a7f088b8a8ba",
+      "application_start": "2026-10-22",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Ehliyet",
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İzmir"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/bsbdj0d2/kep-iletisi-kurum-dışı-işçi-alım-ilanı_ek_ek-1.pdf",
+      "title": "RESEPSİYON GÖREVLİSİ — Kurum Dışı Kamu İşçi Alım İlanı – ARTVİN HOPA ÖĞRETMEN EVİ ASO MÜDÜRLÜĞÜ İKTİSADİ İŞLETMESİ (24.10.2026)",
+      "deadline": "2026-10-24",
+      "deadline_at": "2026-10-24T17:00:00+03:00",
+      "city": "Artvin",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "b4975e533d7a93a6678f568dab957e8eab8389da3c1e859dddf9e9e28265d1a1",
+      "application_start": "2026-10-22",
+      "occupation": "RESEPSİYON GÖREVLİSİ",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Ortaöğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Artvin"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/aebfa2gt/çarşamba-imar8.pdf",
+      "title": "Niteliği — Kurum Dışı Kamu İşçi Alım İlanı – Samsun Çarşamba İmar İnşaat Ticaret Ltd. Şti.",
+      "deadline": "2026-10-24",
+      "deadline_at": "2026-10-24T23:59:00+03:00",
+      "city": "Samsun",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "ceef0a9ec93b16e403ed53b30c42a4bcd1610fa37ac56c00710cff9ac81aeebd",
+      "application_start": "2026-10-22",
+      "occupation": "Niteliği",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Samsun"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/152dkbxr/isper-istanbul-personel-yoenetim-aş-28102026.pdf",
+      "title": "Genel Başvuru — Kurum Dışı Kamu İşçi Alım İlanı – İsper İstanbul Personel Yönetim A.Ş.",
+      "deadline": "2026-10-28",
+      "deadline_at": "2026-10-28T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-22",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "63a4f3c0bf13d07b07e68ebf477d48ceb61a0ba7bed02354599090916aa26b3b",
+      "application_start": "2026-10-23",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-22",
+      "occupation": "Genel Başvuru",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans",
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/zsbn0tb2/ejderrr.pdf",
+      "title": "Snowtrack Kar Ezme Aracı Operatörü — Kurum Dışı Kamu İşçi Alım İlanı – Ejder Kayak Merkezleri A.Ş (Snowtrack Kar Ezme Aracı Operatörü, İş Makinesi Ekskavatör Operatörü)",
+      "deadline": "2026-10-30",
+      "deadline_at": "2026-10-30T17:00:00+03:00",
+      "city": "Erzurum",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-21",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "eab5efff5c0ae2d4ea94e95ca687017f8999b25ef7fead2c577e6aca9bb48ea3",
+      "application_start": "2026-10-21",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-21",
+      "occupation": "Snowtrack Kar Ezme Aracı Operatörü",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Ortaöğretim",
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Ehliyet",
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Erzurum"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/znpfhv0m/izmir-kiraz-belediyesi-personel-ltd-şti.pdf",
+      "title": "Greyder Operatörü — Kurum Dışı Kamu İşçi Alım İlanı – İzmir Kiraz Belediyesi Personel Ltd. Şti.",
+      "deadline": "2026-10-30",
+      "deadline_at": "2026-10-30T17:30:00+03:00",
+      "city": "İzmir",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "89bf6a57ca932b9631ff45bdcf6d6b6555f64c75242a8a511b003c82b9996702",
+      "application_start": "2026-10-21",
+      "occupation": "Greyder Operatörü",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Ehliyet",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İzmir"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/x40hncoa/tekirdağ-tekdaş-tekirdağ-inşaat-kentsel-doenueşuem-aş-27102026.pdf",
+      "title": "TEKNİK OFİS MÜDÜRÜ — Kurum Dışı Kamu İşçi Alım İlanı – Tekirdağ Tekdaş Tekirdağ İnşaat Kentsel Dönüşüm A.Ş. 27.10.2026",
+      "deadline": "2026-10-27",
+      "deadline_at": "2026-10-27T23:59:00+03:00",
+      "city": "Tekirdağ",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-21",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "80205491b07aff386f5700f5d28e67476fcce1f16b9f2154c87bdc35920c1c41",
+      "application_start": "2026-10-21",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-21",
+      "occupation": "TEKNİK OFİS MÜDÜRÜ",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "insaat muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Tekirdağ"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/wcphxnbf/yalova-kadıkoey-belediyesi-personel-limited-şirketi-26102026.pdf",
+      "title": "İnşaat Ustası — Kurum Dışı Kamu İşçi Alım İlanı – Yalova Kadıköy Belediyesi Personel Limited Şirketi 26.10.2026",
+      "deadline": "2026-10-26",
+      "deadline_at": "2026-10-26T23:55:00+03:00",
+      "city": "Yalova",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-21",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "18bab26ebdffb70e6764620670d382788436debb7197de6726e0d5da15ee7417",
+      "application_start": "2026-10-22",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-21",
+      "occupation": "İnşaat Ustası",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Yalova"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/r5ydcvcm/burdur-yeşilova-sydv-28102026.pdf",
+      "title": "Büro Görevlisi — Kurum Dışı Kamu İşçi Alım İlanı – Burdur Yeşilova SYDV 28.10.2026",
+      "deadline": "2026-10-28",
+      "deadline_at": "2026-10-28T23:59:00+03:00",
+      "city": "Burdur",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "cb774f37e4ee4ead650e975c11be5dfec561c0675d987123aa4605be4b24e6ce",
+      "application_start": "2026-10-21",
+      "occupation": "Büro Görevlisi",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [
+          "2026"
+        ],
+        "min_score": 60.0,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Ehliyet",
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "2026",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Burdur"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/m2xnljwk/tekirdağ-bueyuekşehir-belediyesi-personel-aş-25102026.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Tekirdağ Büyükşehir Belediyesi Personel A.Ş. 25.10.2026",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T23:59:00+03:00",
+      "city": "Tekirdağ",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "dd6dc47c2b91730aff4d40e79cc30108813eff6344edf318d1d2c0c23bedcdb5",
+      "application_start": "2026-10-21",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Tekirdağ"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/byfbrvpr/20261021-001-2-4.pdf",
+      "title": "Bilgisayar Mühendisi — Kurum Dışı Kamu İşçi Alım İlanı – Mersin Tarsus İmar Tic. Ltd. Şti. 24.10.2026",
+      "deadline": "2026-10-24",
+      "deadline_at": "2026-10-24T23:59:00+03:00",
+      "city": "Mersin",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-21",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "138da6146ae1393174c57924050062349d2cd404e7b0fa04c6172fbe1a39586d",
+      "application_start": "2026-10-22",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-21",
+      "occupation": "Bilgisayar Mühendisi",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "bilgisayar muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Mersin"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/qnsbaqkk/burdur-mehmet-akif-ersoy-oeğretmenevi-ve-aso-iktisadi-işletmesi-25102026.pdf",
+      "title": "Aşçı Yardımcısı — Kurum Dışı Kamu İşçi Alım İlanı – Burdur Mehmet Akif Ersoy Öğretmenevi ve ASO İktisadi İşletmesi 25.10.2026",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T23:59:00+03:00",
+      "city": "Burdur",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "138df04bae12ce499ff8546dea3901a8ff9e2fa3e9ccb4b2980ad59ce16d1595",
+      "application_start": "2026-10-20",
+      "occupation": "Aşçı Yardımcısı",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Burdur"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/fwpf20ly/tekirdağ-otopark-ulaşım-nak-imar-plan-inş-ve-taah-san-ve-tic-aş-26102026.pdf",
+      "title": "OTOPARK GÖREVLİSİ — Kurum Dışı Kamu İşçi Alım İlanı – Tekirdağ Otopark Ulaşım Nak. İmar. Plan İnş. ve Taah. San. ve Tic. A.Ş. 26.10.2026",
+      "deadline": "2026-10-26",
+      "deadline_at": "2026-10-26T23:59:00+03:00",
+      "city": "Tekirdağ",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "bbfbd11f97a6716dc5473edde1c643d2ead6c94f561e87d47b4da3f3a3a29b6e",
+      "application_start": "2026-10-20",
+      "occupation": "OTOPARK GÖREVLİSİ",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Ön lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Tekirdağ"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/dijgo02s/tekirdağ-muratlı-belediyesi-personel-ltd-şti-27102026.pdf",
+      "title": "Spor Eğitmeni — Kurum Dışı Kamu İşçi Alım İlanı – Tekirdağ Muratlı Belediyesi Personel Ltd. Şti. 27.10.2026",
+      "deadline": "2026-10-27",
+      "deadline_at": "2026-10-27T23:59:00+03:00",
+      "city": "Tekirdağ",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-20",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "ece1a96ec0a53298b48e8938c8dd0999fecb65971d480fa7c7a2d8d6950c5ac2",
+      "application_start": "2026-10-20",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-20",
+      "occupation": "Spor Eğitmeni",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Tekirdağ"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/zhsn05hv/hekimhan-sosyal-yardımlaşma-ve-dayanışma-vakfı2.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Hekimhan Sosyal Yardımlaşma ve Dayanışma Vakfı",
+      "deadline": "2026-10-30",
+      "deadline_at": "2026-10-30T17:00:00+03:00",
+      "city": "Malatya",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "f440e46737819d8b97553cc2ae1a2e0c2ab58f7e6d6075ad11893c701f95c062",
+      "application_start": "2026-10-19",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Ehliyet",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Malatya"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/0jnlucf4/hekimhan-sosyal-yardımlaşma-ve-dayanışma-vakfı.pdf",
+      "title": "Eğitici — Kurum Dışı Kamu İşçi Alım İlanı – Hekimhan Sosyal Yardımlaşma ve Dayanışma Vakfı",
+      "deadline": "2026-10-30",
+      "deadline_at": "2026-10-30T17:00:00+03:00",
+      "city": "Malatya",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "83c52eb5500f94cd831c6dd1bed1e6ca1bec76af70278915bb2f16084dc5aa10",
+      "application_start": "2026-10-19",
+      "occupation": "Eğitici",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Ehliyet",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Malatya"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/o0vgkfmw/karaman-osb-kurum-dışı.pdf",
+      "title": "Güvenlik Personeli — Kurum Dışı Kamu İşçi Alım İlanı – Karaman Organize Sanayi Bölgesi Müdürlüğü",
+      "deadline": "2026-10-30",
+      "deadline_at": "2026-10-30T23:59:00+03:00",
+      "city": "Karaman",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "c31ee0003b29f8216753ad0e9d357a66f01a4cdfe161aeb822e7884d6eee589f",
+      "application_start": "2026-10-15",
+      "occupation": "Güvenlik Personeli",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Ortaöğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Ehliyet"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Karaman"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/ke0iksdq/ejder.pdf",
+      "title": "Gıda Mühendisi — Kurum Dışı Kamu İşçi Alım İlanı – EJDER KAYAK MERKEZLERİ TURİZM İNŞAAT TAAHHÜT HAYVANCILIK  DANIŞMANLIK ORGANİZASYON SANAYİ VE TİCARET ANONİM ŞİRKETİ (GIDA MÜHENDİSİ, GIDA KONTROLÖRÜ)",
+      "deadline": "2026-10-30",
+      "deadline_at": "2026-10-30T17:00:00+03:00",
+      "city": "Erzurum",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-15",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "cb62e68ba1275ffcd33d3b6043e1e05de1f43532d746b1c7cc5ad0f32e1f61fe",
+      "application_start": "2026-10-15",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-15",
+      "occupation": "Gıda Mühendisi",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Erzurum"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/berpnf3f/afyonkarahisar-isjet-jeotermal-sanayi-ticaret-aş-26102026.pdf",
+      "title": "BEKO LODER — Kurum Dışı Kamu İşçi Alım İlanı – Afyonkarahisar İsjet Jeotermal Sanayi Ticaret A.Ş. 26.10.2026",
+      "deadline": "2026-10-27",
+      "deadline_at": "2026-10-27T00:00:00+03:00",
+      "city": "Afyonkarahisar",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-15",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "532e29f774a8ab153d473e16753bed9a3698f3c310bef279f0559c0d314c11ae",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-15",
+      "occupation": "BEKO LODER",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Ehliyet",
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Afyonkarahisar"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/htcbdv0q/muğla-dal-bel-guenuebirlik-tur-hiz-işl-ve-tes-tic-aş-24102026-engelli.pdf",
+      "title": "Turizm ve Otelcilik Elemanı — Kurum Dışı Kamu İşçi Alım İlanı – Muğla Dal-Bel Günübirlik Tur. Hiz. İşl. ve Tes. Tic. A.Ş. 24.10.2026 ENGELLİ",
+      "deadline": "2026-10-24",
+      "deadline_at": "2026-10-24T17:00:00+03:00",
+      "city": "Muğla",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "424b4059a94c40c46d2b1adc9882e86cf383c40e6ba381c494cf883bb7efdfcd",
+      "application_start": "2026-10-14",
+      "occupation": "Turizm ve Otelcilik Elemanı",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Muğla"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/d0kouokt/sydv.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Giresun Sosyal Yardımlaşma ve Dayanışma Vakfı",
+      "deadline": "2026-10-26",
+      "deadline_at": "2026-10-26T17:00:00+03:00",
+      "city": "Giresun",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "c4205fd7f3483949b2e7537b1b6bf1df9cd1fff64460c733e20c9ea1f478b697",
+      "application_start": "2026-10-14",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Giresun"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/4jsghz5e/bursa-bueyuekorhan-belediyesi-yaylakent-akaryakit-inşturztaşsanve-ticltdşti-26102026.pdf",
+      "title": "Temizlik İşçisi — Kurum Dışı Kamu İşçi Alım İlanı – BURSA BÜYÜKORHAN BELEDİYESİ YAYLAKENT AKARYAKIT İNŞ.TURZ.TAŞ.SAN.VE TİC.LTD.ŞTİ-26.10.2026",
+      "deadline": "2026-10-26",
+      "deadline_at": "2026-10-26T17:00:00+03:00",
+      "city": "Bursa",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "0f1ea7629a13c26031841fd7f9cc04895c00516068d43544e5b3f15ffd6b53fc",
+      "application_start": "2026-10-12",
+      "occupation": "Temizlik İşçisi",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Bursa"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/32mow2ww/aydın-kuşadası-arya-turistik-tesisleri-aş-09112026.pdf",
+      "title": "DESTEK PERSONELİ — Kurum Dışı Kamu İşçi Alım İlanı – Aydın Kuşadası Arya Turistik Tesisleri A.Ş. 09.11.2026",
+      "deadline": "2026-11-09",
+      "deadline_at": "2026-11-09T23:59:00+03:00",
+      "city": "Aydın",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "159d029ebb6fdf915c06241e178016455d4593982cb813dd62e53674a08cbe28",
+      "application_start": "2026-10-09",
+      "occupation": "DESTEK PERSONELİ",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Aydın"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/2uec13ye/izmir-narlıdere-nar-bel-narlıbahçe-imar-teknik-ve-turizm-hizmetleri-tic-ltd-şti.pdf",
+      "title": "Okul Öncesi Öğretmeni — Kurum Dışı Kamu İşçi Alım İlanı – İzmir Narlıdere Nar-Bel Narlıbahçe İmar Teknik ve Turizm Hizmetleri Tic. Ltd. Şti",
+      "deadline": "2026-11-06",
+      "deadline_at": "2026-11-06T23:59:00+03:00",
+      "city": "İzmir",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-10-06",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "c652d0047b782469ad21ffdac33c02bddb07bf8b56fb710451157ae05ddac1bf",
+      "application_start": "2026-10-07",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-10-06",
+      "occupation": "Okul Öncesi Öğretmeni",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans",
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İzmir"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/c04p25fx/kueçuekçekmece-inşaat-taahhuet-sanve-tic-aş-5-kasım.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – KÜÇÜKÇEKMECE İNŞAAT TAAHHÜT SAN.VE TİC A.Ş",
+      "deadline": "2026-11-05",
+      "deadline_at": "2026-11-05T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "e6954de90a31f4260bc66455bf0f1e5677faac17cfb9d0663f27cbd9e71bd477",
+      "application_start": "2026-10-05",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/t2bpkhqj/aydın-didim-dihiz-turizm-organizasyon-denizcilik-taş-gıda-çiçek-temiz-hiz-san-ve-tic-aş-31102026.pdf",
+      "title": "SERVİS ARACI ŞOFÖRÜ — Kurum Dışı Kamu İşçi Alım İlanı – Aydın Didim DİHİZ Turizm Organizasyon Denizcilik Taş. Gıda Çiçek. Temiz. Hiz. San. Ve Tic. A.Ş.  31.10.2026",
+      "deadline": "2026-10-31",
+      "deadline_at": "2026-10-31T23:59:00+03:00",
+      "city": "Aydın",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-09-29",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "8c787b314d8218c49ca1a915ba637c76c2b47ab345d01fb09fbdaadc31f2f0ce",
+      "application_start": "2026-10-01",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-09-29",
+      "occupation": "SERVİS ARACI ŞOFÖRÜ",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Ehliyet",
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Aydın"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/euwfbn2h/aydın-didim-dihiz-turizm-organizasyon-denizcilik-taş-gıda-çiçek-temiz-hiz-san-ve-tic-aş-31102026.pdf",
+      "title": "MALİYET KONTROLÖRÜ — Kurum Dışı Kamu İşçi Alım İlanı – Aydın Didim DİHİZ Turizm Organizasyon Denizcilik Taş. Gıda Çiçek. Temiz. Hiz. San. Ve Tic. A.Ş.  31.10.2026",
+      "deadline": "2026-10-31",
+      "deadline_at": "2026-10-31T23:59:00+03:00",
+      "city": "Aydın",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-09-29",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "3dc894fe64a001b6d851a532bb43b56079297526152b0939840ba3366ce6696e",
+      "application_start": "2026-10-01",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-09-29",
+      "occupation": "MALİYET KONTROLÖRÜ",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Aydın"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/etda0bqb/beylikduezue-belediyesi-personel-aş_ek_kurum-dışı-kamu-işçi-alımı-beylikduezue-personel-aş.pdf",
+      "title": "Beden İşçisi — Kurum Dışı Kamu İşçi Alım İlanı – Beylikdüzü Belediyesi Personel A.Ş.",
+      "deadline": "2026-10-31",
+      "deadline_at": "2026-10-31T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-09-29",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "9b9834aec017e664cb4070b2fc9a79b431af7f47d3e471313bb06440f3f7880c",
+      "application_start": "2026-10-01",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-09-29",
+      "occupation": "Beden İşçisi",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/hfsfto4h/denizli-bueyuekşehir-belediyesi-ulaşım-santic-aş.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Denizli Büyükşehir Belediyesi Ulaşım San.Tic. A.Ş.",
+      "deadline": "2026-12-19",
+      "deadline_at": "2026-12-20T00:00:00+03:00",
+      "city": "Denizli",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "f54b469a482d7afd8383dd7c5c82a66582410fb50d68abe17dab6443e9760418",
+      "date_warning": "Liste tarihi 2026-12-20; formdaki daha erken son başvuru tarihi esas alındı: 2026-12-19",
+      "application_start": "2026-09-21",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Denizli"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/i0ipwear/11387218.pdf",
+      "title": "Ar-Ge Kıdemli Uzmanı-Uzmanı — Kurum Dışı Kamu İşçi Alım İlanı – İstanbul Bilişim ve Akıllı Kent Teknolojileri A.Ş.",
+      "deadline": "2026-12-12",
+      "deadline_at": "2026-12-12T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": "2026-08-28",
+      "notice_date_kind": "form_approval",
+      "pdf_sha256": "ecf9d38c970d3dd9088a28b291821907eb9569a88ecc3c60fa19ad0950e3528e",
+      "application_start": "2026-08-28",
+      "date_evidence": "Form Onay Bilgileri / Tarih: 2026-08-28",
+      "occupation": "Ar-Ge Kıdemli Uzmanı-Uzmanı",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/lx3py3gk/kurum-dışı-kamu-işçi-alımı_ek_kurum-dışı-kamu-işçi-alımı-ilan-formu1.pdf",
+      "title": "Ürün ve Hizmet Yönetimi İş i — Kurum Dışı Kamu İşçi Alım İlanı – İstanbul Bilişim ve Akıllı Kent Teknolojileri A.Ş.",
+      "deadline": "2026-10-30",
+      "deadline_at": "2026-10-30T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "62aad08b797c6dd7a94c34283848d88b6aaf59d422544cc9d2aba3b095ce9771",
+      "application_start": "2026-08-18",
+      "occupation": "Ürün ve Hizmet Yönetimi İş i",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/zozbfmz1/radyatoer-tamircisi.pdf",
+      "title": "USTA — Kurum Dışı Kamu İşçi Alım İlanı – ANKARA BELKA A.Ş.",
+      "deadline": "2027-08-05",
+      "deadline_at": "2027-08-05T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "c17d536e3b5b27d78eb9c279418de360317a7679c196b70596234e8cfa824800",
+      "application_start": "2026-08-05",
+      "occupation": "USTA",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/w0cpwxj4/iş-makinesi-tamircisi.pdf",
+      "title": "USTA — Kurum Dışı Kamu İşçi Alım İlanı – ANKARA BELKA A.Ş.",
+      "deadline": "2027-08-05",
+      "deadline_at": "2027-08-05T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "f3bcdb57644c16f414dd7eef38ebed8effb7b7c53a2d55f71fc9ed2048e0c0a3",
+      "application_start": "2026-08-05",
+      "occupation": "USTA",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/gekltedo/oto-lastikçi.pdf",
+      "title": "USTA — Kurum Dışı Kamu İşçi Alım İlanı – ANKARA BELKA A.Ş.",
+      "deadline": "2027-08-05",
+      "deadline_at": "2027-08-05T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "4a722af3e5d0e6da38a681da40edc09c658b33286219da252609be931ba324a0",
+      "application_start": "2026-08-05",
+      "occupation": "USTA",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/3j4pegbe/makasçı-ustası.pdf",
+      "title": "USTA — Kurum Dışı Kamu İşçi Alım İlanı – ANKARA BELKA A.Ş.",
+      "deadline": "2027-08-05",
+      "deadline_at": "2027-08-05T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "8d040edbb50215a5161fe613fdb1b20dfc27ce68d0550a1832ac0e34931ee733",
+      "application_start": "2026-08-05",
+      "occupation": "USTA",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/1cxhnwyg/ağır-vasıta-mekanik.pdf",
+      "title": "USTA — Kurum Dışı Kamu İşçi Alım İlanı – ANKARA BELKA A.Ş.",
+      "deadline": "2027-08-05",
+      "deadline_at": "2027-08-05T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "9e543f2565e0c59c14b0f458974e87cebc2962b7850117ff1863b7198efc8d3c",
+      "application_start": "2026-08-05",
+      "occupation": "USTA",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/0qalgnyd/dizel-motor.pdf",
+      "title": "USTA — Kurum Dışı Kamu İşçi Alım İlanı – ANKARA BELKA A.Ş.",
+      "deadline": "2027-08-05",
+      "deadline_at": "2027-08-05T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "d4cd2f6b63aab1a8b82074bd62b3e2cd16eeca2107c3cf2974aaded739a90fff",
+      "application_start": "2026-08-05",
+      "occupation": "USTA",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/dc3birhe/kurum-dışı-kamu-işçi-alımı_ek_kurum-dışı-kamu-işçi-alımı-ilan-formu.pdf",
+      "title": "İşyeri Hekimi — Kurum Dışı Kamu İşçi Alım İlanı – İstanbul Bilişim ve Akıllı Kent Teknolojileri A.Ş.",
+      "deadline": "2026-10-31",
+      "deadline_at": "2026-10-31T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "34bb61a37f2317ebd536ba1dc42cdeeb747c520e6fa07c6091a0c305b18c768f",
+      "application_start": "2026-07-28",
+      "occupation": "İşyeri Hekimi",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Deneyim"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/yehfpa1t/iş-makineleri-tamircisi.pdf",
+      "title": "USTA — Kurum Dışı Kamu İşçi Alım İlanı – ANKARA BELKA A.Ş.",
+      "deadline": "2027-07-23",
+      "deadline_at": "2027-07-23T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "d53d11e2190e87ac50c5e26bed6d7f92937e003cdf7b1b306ee1460afd862c6e",
+      "application_start": "2026-07-23",
+      "occupation": "USTA",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/q03dbmel/oto-elektrikçisi.pdf",
+      "title": "USTA — Kurum Dışı Kamu İşçi Alım İlanı – ANKARA BELKA A.Ş.",
+      "deadline": "2027-07-23",
+      "deadline_at": "2027-07-23T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "079734a8888c89c0adf0c3d18123313707c1c9b5f5a18c2bc1b604303b0882b5",
+      "application_start": "2026-07-23",
+      "occupation": "USTA",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/yylp4hqx/oto-mekanikeri.pdf",
+      "title": "USTA — Kurum Dışı Kamu İşçi Alım İlanı – ANKARA BELKA A.Ş.",
+      "deadline": "2027-07-23",
+      "deadline_at": "2027-07-23T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "01f6991882af9082baf035142351142612dc90150879ad82adb9f5b4209536ed",
+      "occupation": "USTA",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/vpffoyik/denizli-honaz-belediyesi-iktisadi-ve-sosyal-tesis-işletmesi.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Denizli Honaz Belediyesi İktisadi ve Sosyal Tesis İşletmesi",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T00:00:00+03:00",
+      "city": "Denizli",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "2218125bf006fb4a0133ab5e3945ea3b123fb2084e42787ee8324262cd988c1a",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Denizli"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/vldd4qo3/doc09635520261022125751.pdf",
+      "title": "İçme Suyu Tahakkuk ve Tahsilat — Kurum Dışı Kamu İşçi Alım İlanı – Çanakkale Çan Köylere Hizmet Götürme Birliği Başkanlığı",
+      "deadline": "2026-10-26",
+      "deadline_at": "2026-10-26T17:00:00+03:00",
+      "city": "Çanakkale",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "b4187624328c2e75330442e544e14756a01ae49317acf17f2096aa16a569572c",
+      "occupation": "İçme Suyu Tahakkuk ve Tahsilat",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Ehliyet",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Çanakkale"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/veooc5bw/kozan-imar-4.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Adana Kozan İmar Ticaret Sanayi Personel Limited Şirketi",
+      "deadline": "2026-10-26",
+      "deadline_at": "2026-10-26T18:00:00+03:00",
+      "city": "Adana",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "427c4b05c068c8a785d7d1698b1eeb98866ff56d5e8042540d49f1db6bc774d4",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Adana"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/vdlbmfey/iskent-talep-formu.pdf",
+      "title": "BEDEN İŞÇİSİ İş Sayısı: 2 — Kurum Dışı Kamu İşçi Alım İlanı – Hatay İskenderun Kent Hizmetleri San. ve Tic. A.Ş. 21.10.2026",
+      "deadline": "2026-11-30",
+      "deadline_at": "2026-11-30T17:00:00+03:00",
+      "city": "Hatay",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "2e062d682a0856f38ea8191e84ee5678eee519bb15fc958641eda2efe094ddc4",
+      "occupation": "BEDEN İŞÇİSİ İş Sayısı: 2",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/uzqlysod/kasdaş-ilan.pdf",
+      "title": "Elektrik — Kurum Dışı Kamu İşçi Alım İlanı – Kasdaş Kadıköy Sağlık Turizm Eğitim Çevre Temizliği Otopark Hizmetleri İnşaat Yayıncılık San. Ve Tic. A.Ş.",
+      "deadline": "2026-10-27",
+      "deadline_at": "2026-10-27T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "b054b8ea4beda7d0ed8292ee71f02b067930b39d53670a4534bbfff2088f8510",
+      "occupation": "Elektrik",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "cevre muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Ehliyet",
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/s5zlktd5/11719916.pdf",
+      "title": "COĞRAFİ BİLGİ SİSTEMİ UZMANI — Kurum Dışı Kamu İşçi Alım İlanı – Yeditepe Yapı Danışmanlık İnş. San. Tic. A.Ş.",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "37410a4996011c2fe9c21da8cd99decf23c56ffbe11895ab6abe7e185decf9fd",
+      "occupation": "COĞRAFİ BİLGİ SİSTEMİ UZMANI",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/rogmaw0q/denizli-pamukkale-personel-aş.pdf",
+      "title": "TEMİZLİK GÖREVLİSİ — Kurum Dışı Kamu İşçi Alım İlanı – Denizli Pamukkale Personel A.Ş.",
+      "deadline": "2026-10-27",
+      "deadline_at": "2026-10-27T00:00:00+03:00",
+      "city": "Denizli",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "131c9f3361f02b053101cd30858ca989ea1b70ae86b991f4c5b05c5f439d7910",
+      "occupation": "TEMİZLİK GÖREVLİSİ",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Denizli"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/r1cpqc3w/kurum-dışı-kamu-işçi-alımı_ek_iş-ilanı12.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – İstanbul Bilişim ve Akıllı Kent Teknolojileri A.Ş.",
+      "deadline": "2026-12-30",
+      "deadline_at": "2026-12-30T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "841d9583356dadf80108d70c629668c15e7014b627f89c491cd3e97d49bef5e7",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/r0rp3zec/afyonkarahisar-bolgiysan-yatırım-aş-27102026.pdf",
+      "title": "Beden İşçisi Genel — Kurum Dışı Kamu İşçi Alım İlanı – Afyonkarahisar Bolgiysan Yatırım A.Ş 27.10.2026",
+      "deadline": "2026-10-28",
+      "deadline_at": "2026-10-28T00:00:00+03:00",
+      "city": "Afyonkarahisar",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "79b3cf83b22b4180f92d29d4755dbc7a6137abbb52abf962556c33e50e81e3f5",
+      "occupation": "Beden İşçisi Genel",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/nzcmpb1c/havsa-taşımacılık-inş-hayv-san-ve-tic-ltdşti-26102026.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Havsa Taşımacılık İnş. Hayv. San. ve Tic. Ltd. Şti. 26.10.2026",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T23:59:00+03:00",
+      "city": "Edirne",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "bb3df693d825cc1f9a92c0fc75170348287062d3db5702e9f77cf18b61730cfc",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Ehliyet",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/nz4lf054/11552545.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Hamidiye Kaynak Suları San. Turz. ve Tic  A.Ş",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "cf7a0d888f721c5abd3a835a67ddb816bce0810d8c535393e0a60b79922a0032",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/mr0nnmcg/yalova-kadbel-yapı-malzeme-taahhuet-imalat-ticaret-limited-şirketi-26102026.pdf",
+      "title": "Beden İşçisi — Kurum Dışı Kamu İşçi Alım İlanı – Yalova Kadbel Yapı Malzeme Taahhüt İmalat Ticaret Limited Şirketi 26.10.2026",
+      "deadline": "2026-11-30",
+      "deadline_at": "2026-11-30T23:55:00+03:00",
+      "city": "Yalova",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "d1d0c7b27d8b90dbe0174d9e317648d0d7578e306a9d260d5965ad1c4ed2c82e",
+      "occupation": "Beden İşçisi",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Yalova"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/mfzbwnwa/şile-belediyesi-personel-aş.pdf",
+      "title": "Büro Memuru — Kurum Dışı Kamu İşçi Alım İlanı – Şile Belediyesi  Personel A.Ş.",
+      "deadline": "2026-10-26",
+      "deadline_at": "2026-10-26T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "b51d89f5399baa0b5f04c8d3770f47357aae83ad348249f258f3222d522d69ad",
+      "occupation": "Büro Memuru",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "Memur"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/jtqf1uzp/dizel-yakıt-pompası.pdf",
+      "title": "USTA — Kurum Dışı Kamu İşçi Alım İlanı – ANKARA BELKA A.Ş.",
+      "deadline": "2027-08-05",
+      "deadline_at": "2027-08-05T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "a230c5a0e18800b506732b1c07613ba8260aa3024938521220dfacee08a65ed8",
+      "occupation": "USTA",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/jexfwmae/23102026-şekabel-ilan.pdf",
+      "title": "Beden — Kurum Dışı Kamu İşçi Alım İlanı – ŞEKABEL GIDA  VE  TİC. A.Ş. GEÇİCİ İŞÇİ ALIMI",
+      "deadline": "2026-10-26",
+      "deadline_at": "2026-10-26T17:00:00+03:00",
+      "city": "Gaziantep",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "692db4b68518890f24cb4beb8f4060c2bc7c6626820d2eba952ad11d5f84c72f",
+      "occupation": "Beden",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Gaziantep"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/ih4hpdze/doc09635020261022114802.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Çanakkale Bozcaada Kent Hiz. San. ve Tic. A.Ş.",
+      "deadline": "2026-10-28",
+      "deadline_at": "2026-10-28T17:00:00+03:00",
+      "city": "Çanakkale",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "1eb040c11fcb81931feccbb66cebdb1421832abb62f70e9116124c015e42c9a5",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Çanakkale"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/ifkggkct/çorum-sunbeton-inş-san-ve-tic-ltd-şti-27102026.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Çorum Sunbeton İnş. San. ve Tic. Ltd. Şti. 27.10.2026",
+      "deadline": "2026-10-27",
+      "deadline_at": "2026-10-27T23:59:00+03:00",
+      "city": "Çorum",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "43ed984191e0b50ebf53c89dcd0fe556a53f0f7ef6dd9a0a4f45daabb45ba708",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Çorum"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/hw3l0jam/kurum-dışı-kamu-işçi-alımı_ek_kurum-dışı-kamu-işçi-alımı-ilan-formu1.pdf",
+      "title": "IT Network ve Sistem Kıdemli Uzmanı | AçıkİşSayıs: 1 — Kurum Dışı Kamu İşçi Alım İlanı – İstanbul Bilişim ve Akıllı Kent Teknolojileri A.Ş.",
+      "deadline": "2026-12-12",
+      "deadline_at": "2026-12-12T23:59:00+03:00",
+      "city": "İstanbul",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "a78e0a2cde036f9a53d693b6b29301c86945003d8221ed51e70b7af985fdc28a",
+      "occupation": "IT Network ve Sistem Kıdemli Uzmanı | AçıkİşSayıs: 1",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/howd30vm/kozan-imal-4.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Adana Kozan İmal Ticaret Sanayi Personel Anonim Şirketi",
+      "deadline": "2026-10-26",
+      "deadline_at": "2026-10-26T18:00:00+03:00",
+      "city": "Adana",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "568a89b7acbd2101f35bdd41d13fd8f04e2aaf17df267dabc9a8654cbaae2a05",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Adana"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/g1ofwk41/kep-iletisi-işçi-alım-ilanı_ek_1-img20261023_11475501.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Niğde Keçikalesi Belediyesi Personel Ltd. Şti",
+      "deadline": "2026-10-27",
+      "deadline_at": "2026-10-27T17:30:00+03:00",
+      "city": "Niğde",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "0f27fc6e7690cb5132b5fb1c55a7c6283c5b9a65addbce75c2d557296bf29344",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Niğde"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/fzxbnajx/ilan-guencell.pdf",
+      "title": "BETON PARKE TAŞI MAKİNE — Kurum Dışı Kamu İşçi Alım İlanı – PALANDÖKEN YATIRIM İNŞAAT TAAHHÜT TURİZM MOBİLYA PETROL ÜRÜNLERİ SANAYİ TİCARET ANONİM ŞİRKETİ (PALANDÖKEN AŞ) (BETON PARKE TAŞI MAKİNE OPERATÖRÜ)",
+      "deadline": "2026-10-31",
+      "deadline_at": "2026-10-31T17:00:00+03:00",
+      "city": "Erzurum",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "29b028fb05101b20cb0f3c649941261783e5934271b8d993e4bedc924c1f4024",
+      "occupation": "BETON PARKE TAŞI MAKİNE",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Erzurum"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/cakg54xk/izmir-izdoğa-izmir-bueyuekşehir-belediyesi-çevre-korunması-iyileştirilmesi-mueşavirlik-ve-proje-hizmetleri-tic-ve-san-aş.pdf",
+      "title": "ÇEVRE MÜHENDİSİ — Kurum Dışı Kamu İşçi Alım İlanı – İzmir İzdoğa İzmir Büyükşehir Belediyesi Çevre Korunması İyileştirilmesi Müşavirlik ve Proje Hizmetleri Tic. ve San. A.Ş",
+      "deadline": "2026-10-24",
+      "deadline_at": "2026-10-24T23:59:00+03:00",
+      "city": "İzmir",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "9c8f65a1c382fc858b961f9a9a52ee7695c455a4eb06549193934d4e773aa778",
+      "occupation": "ÇEVRE MÜHENDİSİ",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İzmir"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/c3titvbz/çankırı-yerel-yoenetimleri-çevre-hizmetleri-birliği-personel-ltdşti-03112026.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Çankırı Yerel Yönetimleri Çevre Hizmetleri Birliği Personel Ltd.Şti. 03.11.2026",
+      "deadline": "2026-11-03",
+      "deadline_at": "2026-11-03T17:00:00+03:00",
+      "city": "Çankırı",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "9a36a0dccff3f20db44b85b72a194ae55e81a106ae5c59770f8bb6c1c9a10494",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara",
+          "Çankırı"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/bzpjnqh4/aydın-bozdoğan-belediyesi-bozbel-su-enerji-maden-inş-akar-ulş-hiz-işl-aş-24102026.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Aydın Bozdoğan Belediyesi Bozbel Su Enerji Maden İnş. Akar. Ulş. Hiz. İşl. A.Ş. 24.10.2026",
+      "deadline": "2026-10-24",
+      "deadline_at": "2026-10-24T23:59:00+03:00",
+      "city": "Aydın",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "68b9e902ef0178a29aa905663382ba77078c234b54e44913ffa7830156fe6cc6",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Aydın"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/bcbjkuip/form-guelyalı-sydv.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Ordu Gülyalı İlçesi Sosyal Yardımlaşma ve Dayanışma Vakfı 28.10.2026",
+      "deadline": "2026-10-28",
+      "deadline_at": "2026-10-28T17:00:00+03:00",
+      "city": "Ordu",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "573c38f5a67fd5718f5f2be4aa1f750b5479aa03b2cb989146bff0607e91243f",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ordu"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/a2hnpq20/sarbel-kurum-dişi-işçi-alim-ilani-22-10-2026.pdf",
+      "title": "Aşçı — Kurum Dışı Kamu İşçi Alım İlanı – Sar-Bel Danış.Gıda Tar.Hayv.İnş.Taah.Akary.Tur.Ulaş.Bas.Enerji San.ve Tic. A.Ş. 26.10.2026",
+      "deadline": "2026-10-26",
+      "deadline_at": "2026-10-26T17:30:00+03:00",
+      "city": "Manisa",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "fc34b8d4acbf04f228f576d2539e1310436303e3dcadd625df79c57b7e2c7611",
+      "occupation": "Aşçı",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Manisa"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/4w3dckon/egzos-tamircisi.pdf",
+      "title": "USTA — Kurum Dışı Kamu İşçi Alım İlanı – ANKARA BELKA A.Ş.",
+      "deadline": "2027-08-05",
+      "deadline_at": "2027-08-05T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "69465f141987e1c68f2abbd7692941e9f5dbc70f8754f78bddc8e3164678b37d",
+      "occupation": "USTA",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/3gfknjgb/keşan-belediyesi-personel-ltdşti-25102026.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Keşan Belediyesi Personel Ltd.Şti. 25.10.2026",
+      "deadline": "2026-10-25",
+      "deadline_at": "2026-10-25T23:59:00+03:00",
+      "city": "Edirne",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "c094b76ac5fd1ac78dea795a8e7e935446567519de9a2b7fec2771f006741695",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/1uhpypne/çankırı-yerel-yoenetimleri-çevre-hizmetleri-birliği-personel-ltdşti-03112026.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Çankırı Yerel Yönetimleri Çevre Hizmetleri Birliği Personel Ltd.Şti. 03.11.2026",
+      "deadline": "2026-11-03",
+      "deadline_at": "2026-11-03T17:00:00+03:00",
+      "city": "Çankırı",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "ba08266e8985f7b17f3145a65febcdeb97433fcfce596c185c861712f560c821",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara",
+          "Çankırı"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/0p0niktl/kep-iletisi-kurum-dişi-kamu-işçi-alimi_ustyazi.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – GÜDÜL SOSYAL YARDIMLAŞMA VE  DAYANIŞMA VAKFI 26.10.2026",
+      "deadline": "2026-10-26",
+      "deadline_at": "2026-10-26T17:00:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "ce19d4f4a47f47183a5a1542440c4aacf6fbacc5841f0a2de8c7d73e532603b3",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": 60.0,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Ehliyet"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara",
+          "Ordu"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/0i1it4pb/gazibel.pdf",
+      "title": "Kurum Dışı Kamu İşçi Alım İlanı – Antalya Gazibel İnşaat Tarım Turizm Ticaret ve Sanayi Ltd. Şti.",
+      "deadline": "2026-10-28",
+      "deadline_at": "2026-10-28T17:30:00+03:00",
+      "city": "Antalya",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "a148d71f9b35669dce3cfde726d54cb7c39985e17e768033dd69ad38fe6e9094",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Antalya"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.iskur.gov.tr/medya/0hajmg4j/fren-tamircisi.pdf",
+      "title": "USTA — Kurum Dışı Kamu İşçi Alım İlanı – ANKARA BELKA A.Ş.",
+      "deadline": "2027-08-05",
+      "deadline_at": "2027-08-05T23:59:00+03:00",
+      "city": "Ankara",
+      "source_id": "iskur",
+      "source_name": "İŞKUR — kurum dışı kamu işçi alımı",
+      "hiring_feed": true,
+      "date_method": "pdf_ocr",
+      "notice_date": null,
+      "notice_date_kind": null,
+      "pdf_sha256": "0bcdcfdcfd7321a70e39e61679d0d2567de49b0fb2fa8323d1f98c190fbd8109",
+      "occupation": "USTA",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "İlköğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim",
+          "İkamet koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    }
+  ]
+}

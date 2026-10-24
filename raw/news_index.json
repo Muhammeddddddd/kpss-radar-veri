@@ -1,0 +1,502 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-24T21:55:56.362Z",
+  "statuses": {
+    "memurlar": {
+      "ok": 0,
+      "message": "HTTP 403"
+    },
+    "osym": {
+      "ok": 1,
+      "read": 2
+    },
+    "cnnturk": {
+      "ok": 1,
+      "read": 105
+    },
+    "sabah": {
+      "ok": 1,
+      "read": 27
+    },
+    "sozcu": {
+      "ok": 1,
+      "read": 50
+    },
+    "hurriyet": {
+      "ok": 1,
+      "read": 300
+    },
+    "haberturk": {
+      "ok": 1,
+      "read": 30
+    },
+    "yenisafak": {
+      "ok": 1,
+      "read": 60
+    },
+    "milliyet": {
+      "ok": 1,
+      "read": 70
+    },
+    "trt": {
+      "ok": 1,
+      "read": 350
+    },
+    "aa": {
+      "ok": 1,
+      "read": 120
+    }
+  },
+  "items": [
+    {
+      "id": "cnnturk:https://www.cnnturk.com/turkiye/kamu-personel-secme-sinavi-kpss-2026-ne-zaman-kpss-ortaogretim-oturumu-kacta-basliyor-kacta-bitiyor-kac-dakika-suruyor-3483828",
+      "title": "KAMU PERSONEL SEÇME SINAVI (KPSS) 2026 NE ZAMAN? KPSS Ortaöğretim Oturumu Kaçta Başlıyor, Kaçta Bitiyor, Kaç Dakika Sürüyor?",
+      "url": "https://www.cnnturk.com/turkiye/kamu-personel-secme-sinavi-kpss-2026-ne-zaman-kpss-ortaogretim-oturumu-kacta-basliyor-kacta-bitiyor-kac-dakika-suruyor-3483828",
+      "published": "2026-10-24T19:51:44.000Z",
+      "source_id": "cnnturk",
+      "image": "https://image.cnnturk.com/i/cnnturk/75/720x490/6adc59545d4bc9d2d8b23327.jpg"
+    },
+    {
+      "id": "aa:https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-kpss-tedbirlerine-iliskin-aciklama/4099705",
+      "title": "İçişleri Bakanı Çiftçi'den KPSS tedbirlerine ilişkin açıklama",
+      "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-kpss-tedbirlerine-iliskin-aciklama/4099705",
+      "published": "2026-10-24T15:39:46.000Z",
+      "source_id": "aa",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/24/thumbs_b_c_0e4986a39a10dc0991d20b0d6c276bbb.jpg"
+    },
+    {
+      "id": "sabah:https://www.sabah.com.tr/gundem/2026/10/24/bakan-ciftciden-kpss-adaylarina-basari-mesaji-35-bini-askin-personel-gorev-yapacak",
+      "title": "Bakan Çiftçi’den KPSS adaylarına başarı mesajı! 35 bini aşkın personel görev yapacak",
+      "url": "https://www.sabah.com.tr/gundem/2026/10/24/bakan-ciftciden-kpss-adaylarina-basari-mesaji-35-bini-askin-personel-gorev-yapacak",
+      "published": "2026-10-24T13:36:00.000Z",
+      "source_id": "sabah",
+      "image": "https://iasbh.tmgrup.com.tr/1a58fa/1200/675/0/9/1600/908?u=https://isbh.tmgrup.com.tr/sbh/2026/10/24/bakan-ciftciden-kpss-adaylarina-basari-mesaji-35-bini-askin-personel-gorev-yapacak-1792848903080.jpg"
+    },
+    {
+      "id": "hurriyet:https://www.hurriyet.com.tr/egitim/3-milyona-yakin-aday-kpssye-girecek-43353365",
+      "title": "3 milyona yakın aday KPSS’ye girecek",
+      "url": "https://www.hurriyet.com.tr/egitim/3-milyona-yakin-aday-kpssye-girecek-43353365",
+      "published": "2026-10-24T09:41:00.000Z",
+      "source_id": "hurriyet",
+      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6adc7d2b957c6a1e2fd19fff.jpg"
+    },
+    {
+      "id": "aa:https://www.aa.com.tr/tr/gundem/osym-baskani-ersoydan-kpss-sirasinda-gurultu-yapilmamasi-cagrisi/4099358",
+      "title": "ÖSYM Başkanı Ersoy'dan KPSS sırasında gürültü yapılmaması çağrısı",
+      "url": "https://www.aa.com.tr/tr/gundem/osym-baskani-ersoydan-kpss-sirasinda-gurultu-yapilmamasi-cagrisi/4099358",
+      "published": "2026-10-24T09:34:10.000Z",
+      "source_id": "aa",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/24/thumbs_b_c_8f1af3eb7294d5423c4734ada9354f44.jpg",
+      "also": [
+        {
+          "id": "haberturk:https://www.haberturk.com/gundem/osym-baskani-ersoy-dan-kpss-sirasinda-gurultu-yapilmamasi-cagrisi-3922240",
+          "title": "ÖSYM'den KPSS sırasında gürültü yapılmaması çağrısı",
+          "url": "https://www.haberturk.com/gundem/osym-baskani-ersoy-dan-kpss-sirasinda-gurultu-yapilmamasi-cagrisi-3922240",
+          "published": "2026-10-24T11:04:23.000Z",
+          "source_id": "haberturk"
+        },
+        {
+          "id": "yenisafak:https://www.yenisafak.com/gundem/osym-baskani-ersoy-kpss-sirasinda-gurultu-yapilmamasi-konusunda-uyarida-bulundu-4866928",
+          "title": "ÖSYM Başkanı Ersoy KPSS sırasında gürültü yapılmaması konusunda uyarıda bulundu",
+          "url": "https://www.yenisafak.com/gundem/osym-baskani-ersoy-kpss-sirasinda-gurultu-yapilmamasi-konusunda-uyarida-bulundu-4866928",
+          "published": "2026-10-24T10:00:46.000Z",
+          "source_id": "yenisafak"
+        },
+        {
+          "id": "milliyet:https://www.milliyet.com.tr/gundem/osym-baskani-ersoydan-kpss-uyarisi-7686594",
+          "title": "ÖSYM Başkanı Ersoy'dan KPSS uyarısı",
+          "url": "https://www.milliyet.com.tr/gundem/osym-baskani-ersoydan-kpss-uyarisi-7686594",
+          "published": "2026-10-24T09:37:01.000Z",
+          "source_id": "milliyet"
+        }
+      ]
+    },
+    {
+      "id": "cnnturk:https://www.cnnturk.com/egitim/2026-kpss-ortaogretim-sinavi-ne-zaman-kpss-saat-kacta-osym-kpss-sinav-yerleri-sorgulama-ekrani-3483771",
+      "title": "2026 KPSS Ortaöğretim sınavı ne zaman? KPSS saat kaçta? ÖSYM - KPSS sınav yerleri sorgulama ekranı",
+      "url": "https://www.cnnturk.com/egitim/2026-kpss-ortaogretim-sinavi-ne-zaman-kpss-saat-kacta-osym-kpss-sinav-yerleri-sorgulama-ekrani-3483771",
+      "published": "2026-10-23T20:50:46.000Z",
+      "source_id": "cnnturk",
+      "image": "https://image.cnnturk.com/i/cnnturk/75/720x490/6adb9e6e93761243f7352733.jpg"
+    },
+    {
+      "id": "yenisafak:https://www.yenisafak.com/galeri/gundem/bekcilik-basvuru-takvimi-egm-son-gelismeler-2026-bekcilik-alimi-duyurusu-yayimlandi-mi-ne-zaman-yapilacak-4853214",
+      "title": "Bekçilik başvuru takvimi EGM son gelişmeler 2026: Bekçilik alımı duyurusu yayımlandı mı, ne zaman yapılacak?",
+      "url": "https://www.yenisafak.com/galeri/gundem/bekcilik-basvuru-takvimi-egm-son-gelismeler-2026-bekcilik-alimi-duyurusu-yayimlandi-mi-ne-zaman-yapilacak-4853214",
+      "published": "2026-10-23T12:36:00.000Z",
+      "source_id": "yenisafak",
+      "image": "https://img.piri.net/piri/upload/3/2026/9/4/193f8443-bekcilik-basvurusu-son-durum-eylul-2026-bekcilik-alimi.webp"
+    },
+    {
+      "id": "cnnturk:https://www.cnnturk.com/turkiye/saglik-bakanligi-38-bin-personel-alimi-saglik-bakanligi-hekim-disi-38-bin-personel-alimi-basvurulari-ne-zaman-baslayacak-iste-3481417",
+      "title": "SAĞLIK BAKANLIĞI 38 BİN PERSONEL ALIMI: Sağlık Bakanlığı Hekim Dışı 38 Bin Personel Alımı Başvuruları Ne Zaman Başlayacak? İşte Şartlar, Kadrolar ve Başvuru Takvimi",
+      "url": "https://www.cnnturk.com/turkiye/saglik-bakanligi-38-bin-personel-alimi-saglik-bakanligi-hekim-disi-38-bin-personel-alimi-basvurulari-ne-zaman-baslayacak-iste-3481417",
+      "published": "2026-10-22T17:34:34.000Z",
+      "source_id": "cnnturk",
+      "image": "https://image.cnnturk.com/i/cnnturk/75/720x490/6ad5f3f0b130c257562a01b8.jpg"
+    },
+    {
+      "id": "cnnturk:https://www.cnnturk.com/turkiye/tcdd-isci-alimi-2026-tcdd-166-daimi-isci-alimi-basladi-basvuru-sartlari-ve-kadrolar-neler-kimler-basvurabilir-kadro-dagilimi-ne-3482521",
+      "title": "TCDD İŞÇİ ALIMI 2026: TCDD 166 Daimi İşçi Alımı Başladı! Başvuru Şartları ve Kadrolar Neler? Kimler Başvurabilir, Kadro Dağılımı Ne?",
+      "url": "https://www.cnnturk.com/turkiye/tcdd-isci-alimi-2026-tcdd-166-daimi-isci-alimi-basladi-basvuru-sartlari-ve-kadrolar-neler-kimler-basvurabilir-kadro-dagilimi-ne-3482521",
+      "published": "2026-10-22T17:34:27.000Z",
+      "source_id": "cnnturk",
+      "image": "https://image.cnnturk.com/i/cnnturk/75/720x490/6ad89651fe46d577dbb93e50.jpg"
+    },
+    {
+      "id": "osym:https://www.osym.gov.tr/2026-kpss-ortaogretim-sinavi-icin-sinav-gunu-acik-tutulacak-ililce-nufus-mudurlukleri",
+      "title": "2026-KPSS Ortaöğretim Sınavı İçin Sınav Günü Açık Tutulacak İl/İlçe Nüfus Müdürlükleri",
+      "url": "https://www.osym.gov.tr/2026-kpss-ortaogretim-sinavi-icin-sinav-gunu-acik-tutulacak-ililce-nufus-mudurlukleri",
+      "published": "2026-10-22T12:00:00.000Z",
+      "day_only": true,
+      "source_id": "osym",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2088000/sinav-aa-2089274.jpg",
+      "also": [
+        {
+          "id": "trt:https://www.trthaber.com/haber/egitim/kpss-ortaogretim-pazar-gunu-yapilacak-960900.html",
+          "title": "KPSS Ortaöğretim pazar günü yapılacak",
+          "url": "https://www.trthaber.com/haber/egitim/kpss-ortaogretim-pazar-gunu-yapilacak-960900.html",
+          "published": "2026-10-22T11:33:00.000Z",
+          "source_id": "trt"
+        },
+        {
+          "id": "hurriyet:https://www.hurriyet.com.tr/egitim/kpss-ortaogretim-pazar-gunu-yapilacak-43351015",
+          "title": "KPSS Ortaöğretim pazar günü yapılacak",
+          "url": "https://www.hurriyet.com.tr/egitim/kpss-ortaogretim-pazar-gunu-yapilacak-43351015",
+          "published": "2026-10-22T10:55:52.000Z",
+          "source_id": "hurriyet"
+        },
+        {
+          "id": "aa:https://www.aa.com.tr/tr/gundem/2026-kpss-ortaogretim-pazar-gunu-yapilacak/4097038",
+          "title": "2026-KPSS Ortaöğretim pazar günü yapılacak",
+          "url": "https://www.aa.com.tr/tr/gundem/2026-kpss-ortaogretim-pazar-gunu-yapilacak/4097038",
+          "published": "2026-10-22T10:38:42.000Z",
+          "source_id": "aa"
+        },
+        {
+          "id": "yenisafak:https://www.yenisafak.com/gundem/kpss-ortaogretim-bu-pazar-gunu-yapilacak-4866421",
+          "title": "KPSS Ortaöğretim bu pazar günü yapılacak",
+          "url": "https://www.yenisafak.com/gundem/kpss-ortaogretim-bu-pazar-gunu-yapilacak-4866421",
+          "published": "2026-10-22T09:05:17.000Z",
+          "source_id": "yenisafak"
+        }
+      ]
+    },
+    {
+      "id": "osym:https://www.osym.gov.tr/2026-kpss-din-hizmetleri-alan-bilgisi-dhbt-sinava-giris-belgeleri-erisime-acildi",
+      "title": "2026-KPSS Din Hizmetleri Alan Bilgisi (DHBT): Sınava Giriş Belgeleri Erişime Açıldı",
+      "url": "https://www.osym.gov.tr/2026-kpss-din-hizmetleri-alan-bilgisi-dhbt-sinava-giris-belgeleri-erisime-acildi",
+      "published": "2026-10-22T12:00:00.000Z",
+      "day_only": true,
+      "source_id": "osym"
+    },
+    {
+      "id": "cnnturk:https://www.cnnturk.com/turkiye/kpss-on-lisans-sonucu-2026-kpss-on-lisans-sonuclari-ne-zaman-aciklanacak-gozler-osymde-3481282",
+      "title": "KPSS Ön Lisans Sonuçları Ne Zaman Açıklanacak? KPSS ÖN LİSANS SONUCU 2026 | Gözler ÖSYM'de!",
+      "url": "https://www.cnnturk.com/turkiye/kpss-on-lisans-sonucu-2026-kpss-on-lisans-sonuclari-ne-zaman-aciklanacak-gozler-osymde-3481282",
+      "published": "2026-10-22T09:31:22.000Z",
+      "source_id": "cnnturk",
+      "image": "https://image.cnnturk.com/i/cnnturk/75/720x490/6ad5c056b130c257562a00ab.jpg"
+    },
+    {
+      "id": "aa:https://www.aa.com.tr/tr/ekonomi/bakan-isikhan-iskurun-hizmetlerini-dijital-donusum-beceri-gelistirme-ve-kapsayici-istihdam-ekseninde-guclendiriyoruz/4096106",
+      "title": "Bakan Işıkhan: İŞKUR'un hizmetlerini dijital dönüşüm, beceri geliştirme ve kapsayıcı istihdam ekseninde güçlendiriyoruz",
+      "url": "https://www.aa.com.tr/tr/ekonomi/bakan-isikhan-iskurun-hizmetlerini-dijital-donusum-beceri-gelistirme-ve-kapsayici-istihdam-ekseninde-guclendiriyoruz/4096106",
+      "published": "2026-10-21T14:11:58.000Z",
+      "source_id": "aa",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_57d4abbcdf7bc20935c4ff54f6526148.jpg"
+    },
+    {
+      "id": "cnnturk:https://www.cnnturk.com/turkiye/adalet-bakanligi-icra-sinavi-basvuru-ekrani-adalet-bakanligi-icra-sinavi-ne-zaman-basvurular-basladi-mi-osym-adalet-bakanligi-sinavi-3481946",
+      "title": "ADALET BAKANLIĞI İCRA SINAVI BAŞVURU EKRANI: Adalet Bakanlığı İcra Sınavı Ne Zaman?Başvurular Başladı Mı? ÖSYM Adalet Bakanlığı Sınavı Başvuru Ekranı",
+      "url": "https://www.cnnturk.com/turkiye/adalet-bakanligi-icra-sinavi-basvuru-ekrani-adalet-bakanligi-icra-sinavi-ne-zaman-basvurular-basladi-mi-osym-adalet-bakanligi-sinavi-3481946",
+      "published": "2026-10-20T17:29:23.000Z",
+      "source_id": "cnnturk",
+      "image": "https://image.cnnturk.com/i/cnnturk/75/720x490/6ad74a77fe46d577dbb938c2.jpg"
+    },
+    {
+      "id": "cnnturk:https://www.cnnturk.com/egitim/kpss-brans-bazinda-siralamalar-aciklandi-mi-ne-zaman-aciklanacak-kpss-lisans-brans-siralamasi-2026-3481456",
+      "title": "KPSS Branş Bazında Sıralamalar Açıklandı Mı, Ne Zaman Açıklanacak? KPSS Lisans Branş Sıralaması 2026",
+      "url": "https://www.cnnturk.com/egitim/kpss-brans-bazinda-siralamalar-aciklandi-mi-ne-zaman-aciklanacak-kpss-lisans-brans-siralamasi-2026-3481456",
+      "published": "2026-10-19T15:54:27.000Z",
+      "source_id": "cnnturk",
+      "image": "https://image.cnnturk.com/i/cnnturk/75/720x490/6ad60f2eb130c257562a0232.jpg"
+    },
+    {
+      "id": "sabah:https://www.sabah.com.tr/ekonomi/kamuya-girmek-isteyenlere-yeni-firsat-3-kurum-toplam-29-personel-alacak-7683931",
+      "title": "Kamuya girmek isteyenlere yeni fırsat! 3 kurum toplam 29 personel alacak",
+      "url": "https://www.sabah.com.tr/ekonomi/kamuya-girmek-isteyenlere-yeni-firsat-3-kurum-toplam-29-personel-alacak-7683931",
+      "published": "2026-10-19T12:42:14.000Z",
+      "source_id": "sabah",
+      "image": "https://iasbh.tmgrup.com.tr/eae94e/1200/675/0/0/1200/675?u=https://isbh.tmgrup.com.tr/sbh/2026/10/19/kamuya-girmek-isteyenlere-yeni-firsat-3-kurum-toplam-29-personel-alacak-1792413574607.png"
+    },
+    {
+      "id": "cnnturk:https://www.cnnturk.com/turkiye/resmi-gazete-kararlari-19-ekim-orta-anadolu-kalkinma-ajansi-personel-alimi-ilani-yayinlandi-3481154",
+      "title": "RESMİ GAZETE KARARLARI 19 EKİM: Orta Anadolu Kalkınma Ajansı personel alımı ilanı yayınlandı!",
+      "url": "https://www.cnnturk.com/turkiye/resmi-gazete-kararlari-19-ekim-orta-anadolu-kalkinma-ajansi-personel-alimi-ilani-yayinlandi-3481154",
+      "published": "2026-10-19T01:40:01.000Z",
+      "source_id": "cnnturk",
+      "image": "https://image.cnnturk.com/i/cnnturk/75/720x490/6ad54a349f69b7780963ea02.jpg"
+    },
+    {
+      "id": "trt:https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-saglikta-38-bin-personel-alinacak-960417.html",
+      "title": "Cumhurbaşkanı Erdoğan: Sağlıkta 38 bin personel alınacak",
+      "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-saglikta-38-bin-personel-alinacak-960417.html",
+      "published": "2026-10-17T11:19:00.000Z",
+      "source_id": "trt",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/erdogan-2496549.jpg"
+    },
+    {
+      "id": "trt:https://www.trthaber.com/haber/gundem/selden-etkilenen-iller-icin-2-bin-kisi-istihdam-edilecek-960385.html",
+      "title": "Selden etkilenen iller için 2 bin kişi istihdam edilecek",
+      "url": "https://www.trthaber.com/haber/gundem/selden-etkilenen-iller-icin-2-bin-kisi-istihdam-edilecek-960385.html",
+      "published": "2026-10-17T07:16:00.000Z",
+      "source_id": "trt",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/sel-2496502.jpg"
+    },
+    {
+      "id": "aa:https://www.aa.com.tr/tr/gundem/sozlesmeli-31-bin-54-saglik-personelinin-istihdamina-iliskin-karar-resmi-gazetede/4091551",
+      "title": "Sözleşmeli 31 bin 54 sağlık personelinin istihdamına ilişkin karar Resmi Gazete'de",
+      "url": "https://www.aa.com.tr/tr/gundem/sozlesmeli-31-bin-54-saglik-personelinin-istihdamina-iliskin-karar-resmi-gazetede/4091551",
+      "published": "2026-10-16T21:24:58.000Z",
+      "source_id": "aa",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1896000/saglik-calisanlari-aa-1896515.jpg",
+      "also": [
+        {
+          "id": "trt:https://www.trthaber.com/haber/gundem/31-bin-54-saglik-personelinin-istihdamina-iliskin-karar-resmi-gazetede-960365.html",
+          "title": "31 bin 54 sağlık personelinin istihdamına ilişkin karar Resmi Gazete'de",
+          "url": "https://www.trthaber.com/haber/gundem/31-bin-54-saglik-personelinin-istihdamina-iliskin-karar-resmi-gazetede-960365.html",
+          "published": "2026-10-16T21:26:00.000Z",
+          "source_id": "trt"
+        }
+      ]
+    },
+    {
+      "id": "aa:https://www.aa.com.tr/tr/gundem/osym-istanbulda-hafta-sonu-yapilacak-sinavlarin-ertelendigini-duyurdu/4091376",
+      "title": "ÖSYM, İstanbul'da hafta sonu yapılacak sınavların ertelendiğini duyurdu",
+      "url": "https://www.aa.com.tr/tr/gundem/osym-istanbulda-hafta-sonu-yapilacak-sinavlarin-ertelendigini-duyurdu/4091376",
+      "published": "2026-10-16T17:43:56.000Z",
+      "source_id": "aa",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1476000/sinav-1476155.jpg",
+      "also": [
+        {
+          "id": "trt:https://www.trthaber.com/haber/turkiye/osym-istanbulda-hafta-sonu-yapilacak-sinavlari-erteledi-960357.html",
+          "title": "ÖSYM İstanbul'da hafta sonu yapılacak sınavları erteledi",
+          "url": "https://www.trthaber.com/haber/turkiye/osym-istanbulda-hafta-sonu-yapilacak-sinavlari-erteledi-960357.html",
+          "published": "2026-10-16T17:54:00.000Z",
+          "source_id": "trt"
+        },
+        {
+          "id": "milliyet:https://www.milliyet.com.tr/egitim/osym-duyurdu-istanbulda-hafta-sonu-yapilacak-sinavlar-ertelendi-7681391",
+          "title": "ÖSYM duyurdu: İstanbul'da hafta sonu yapılacak sınavlar ertelendi",
+          "url": "https://www.milliyet.com.tr/egitim/osym-duyurdu-istanbulda-hafta-sonu-yapilacak-sinavlar-ertelendi-7681391",
+          "published": "2026-10-16T17:52:27.000Z",
+          "source_id": "milliyet"
+        },
+        {
+          "id": "hurriyet:https://www.hurriyet.com.tr/egitim/osymden-hafta-sonu-iki-sinav-43344347",
+          "title": "ÖSYM'den hafta sonu iki sınav",
+          "url": "https://www.hurriyet.com.tr/egitim/osymden-hafta-sonu-iki-sinav-43344347",
+          "published": "2026-10-16T13:30:49.000Z",
+          "source_id": "hurriyet"
+        }
+      ]
+    },
+    {
+      "id": "osym:https://www.osym.gov.tr/2026-kpss-ortaogretim-sinavi-sinava-giris-belgeleri-erisime-acildi",
+      "title": "2026-KPSS Ortaöğretim Sınavı: Sınava Giriş Belgeleri Erişime Açıldı",
+      "url": "https://www.osym.gov.tr/2026-kpss-ortaogretim-sinavi-sinava-giris-belgeleri-erisime-acildi",
+      "published": "2026-10-14T12:00:00.000Z",
+      "day_only": true,
+      "source_id": "osym"
+    },
+    {
+      "id": "hurriyet:https://www.hurriyet.com.tr/egitim/kpss-ortaogretim-sinav-yerleri-belli-oldu-43341354",
+      "title": "KPSS Ortaöğretim sınav yerleri belli oldu",
+      "url": "https://www.hurriyet.com.tr/egitim/kpss-ortaogretim-sinav-yerleri-belli-oldu-43341354",
+      "published": "2026-10-14T11:27:50.000Z",
+      "source_id": "hurriyet",
+      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6aa717ba5548acce71254214.jpg",
+      "also": [
+        {
+          "id": "cnnturk:https://www.cnnturk.com/egitim/kpss-2026-ortaogrenim-sinav-yeri-sorgulama-ekrani-osym-kpss-ortaogretim-sinav-yerleri-aciklandi-mi-kpss-2026-lise-sinavi-ne-zaman-3479244",
+          "title": "KPSS 2026 ORTAÖĞRENİM SINAV YERİ SORGULAMA EKRANI: ÖSYM KPSS Ortaöğretim Sınav Yerleri Açıklandı mı? KPSS 2026 Lise Sınavı Ne Zaman Yapılacak? 2026 KPSS Lise Sınav Giriş Belgesi Nereden Alınır?",
+          "url": "https://www.cnnturk.com/egitim/kpss-2026-ortaogrenim-sinav-yeri-sorgulama-ekrani-osym-kpss-ortaogretim-sinav-yerleri-aciklandi-mi-kpss-2026-lise-sinavi-ne-zaman-3479244",
+          "published": "2026-10-15T17:41:52.000Z",
+          "source_id": "cnnturk"
+        }
+      ]
+    },
+    {
+      "id": "trt:https://www.trthaber.com/haber/ekonomi/tse-17-bilisim-personeli-alacak-960070.html",
+      "title": "TSE 17 bilişim personeli alacak",
+      "url": "https://www.trthaber.com/haber/ekonomi/tse-17-bilisim-personeli-alacak-960070.html",
+      "published": "2026-10-14T07:12:00.000Z",
+      "source_id": "trt",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1730000/memur-calisan-masa-basi-calisan-ofis-aa-1731984.jpg"
+    },
+    {
+      "id": "cnnturk:https://www.cnnturk.com/egitim/brans-siralamasi-ne-zaman-aciklanacak-kpss-brans-bazinda-siralamalar-ne-zaman-aciklanir-son-durum-nedir-3477763",
+      "title": "BRANŞ SIRALAMASI NE ZAMAN AÇIKLANACAK? KPSS branş bazında sıralamalar ne zaman açıklanır, son durum nedir?",
+      "url": "https://www.cnnturk.com/egitim/brans-siralamasi-ne-zaman-aciklanacak-kpss-brans-bazinda-siralamalar-ne-zaman-aciklanir-son-durum-nedir-3477763",
+      "published": "2026-10-12T01:46:33.000Z",
+      "source_id": "cnnturk",
+      "image": "https://image.cnnturk.com/i/cnnturk/75/720x490/6acc11c68020ad09b02efd38.jpg"
+    },
+    {
+      "id": "cnnturk:https://www.cnnturk.com/egitim/kpss-on-lisans-sinavi-sonuclari-ne-zaman-aciklanacak-osym-2026-kpss-on-lisans-sinav-sonuc-tarihi-3477729",
+      "title": "KPSS ÖN LİSANS SINAVI SONUÇLARI NE ZAMAN AÇIKLANACAK? ÖSYM 2026 KPSS Ön Lisans sınav sonuç tarihi!",
+      "url": "https://www.cnnturk.com/egitim/kpss-on-lisans-sinavi-sonuclari-ne-zaman-aciklanacak-osym-2026-kpss-on-lisans-sinav-sonuc-tarihi-3477729",
+      "published": "2026-10-11T19:53:48.000Z",
+      "source_id": "cnnturk",
+      "image": "https://image.cnnturk.com/i/cnnturk/75/720x490/6acbbf1a8020ad09b02efc7f.jpg"
+    },
+    {
+      "id": "hurriyet:https://www.hurriyet.com.tr/egitim/kpss-lisans-sonuclari-aciklandi-43332170",
+      "title": "KPSS lisans sonuçları açıklandı",
+      "url": "https://www.hurriyet.com.tr/egitim/kpss-lisans-sonuclari-aciklandi-43332170",
+      "published": "2026-10-07T05:59:51.000Z",
+      "source_id": "hurriyet",
+      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8cc25a731e5880c91abbae.jpg",
+      "also": [
+        {
+          "id": "cnnturk:https://www.cnnturk.com/egitim/2026-kpss-lisans-sonuclari-aciklandi-3475974",
+          "title": "2026-KPSS Lisans sonuçları açıklandı",
+          "url": "https://www.cnnturk.com/egitim/2026-kpss-lisans-sonuclari-aciklandi-3475974",
+          "published": "2026-10-07T07:52:27.000Z",
+          "source_id": "cnnturk"
+        },
+        {
+          "id": "milliyet:https://www.milliyet.com.tr/egitim/son-dakika-osym-duyurdu-2026-kpss-lisans-sonuclari-aciklandi-7674666",
+          "title": "KPSS SONUÇLARI AÇIKLANDI! KPSS Lisans sonuçları nasıl sorgulanır?",
+          "url": "https://www.milliyet.com.tr/egitim/son-dakika-osym-duyurdu-2026-kpss-lisans-sonuclari-aciklandi-7674666",
+          "published": "2026-10-07T05:41:24.000Z",
+          "source_id": "milliyet"
+        }
+      ]
+    },
+    {
+      "id": "milliyet:https://www.milliyet.com.tr/egitim/kpss-on-lisans-oturumu-sona-erdi-1-milyon-593-bin-aday-ter-doktu-7672716",
+      "title": "KPSS ön lisans oturumu sona erdi! 1 milyon 593 bin aday ter döktü",
+      "url": "https://www.milliyet.com.tr/egitim/kpss-on-lisans-oturumu-sona-erdi-1-milyon-593-bin-aday-ter-doktu-7672716",
+      "published": "2026-10-04T13:55:59.000Z",
+      "source_id": "milliyet",
+      "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ac2043e3b385b9e77a99399.jpg"
+    },
+    {
+      "id": "hurriyet:https://www.hurriyet.com.tr/egitim/kpss-on-lisans-oturumu-yapildi-43329237",
+      "title": "KPSS ön lisans oturumu yapıldı",
+      "url": "https://www.hurriyet.com.tr/egitim/kpss-on-lisans-oturumu-yapildi-43329237",
+      "published": "2026-10-04T11:49:00.000Z",
+      "source_id": "hurriyet",
+      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a9dc9ee0202f67399470418.jpg",
+      "also": [
+        {
+          "id": "cnnturk:https://www.cnnturk.com/egitim/2026-kpss-on-lisans-soru-cevaplari-osym-kpss-on-lisans-soru-cevap-anahtari-aciklandi-mi-cevaplar-nereden-sorgulanir-3474712",
+          "title": "2026 KPSS ÖN LİSANS SORU CEVAPLARI: ÖSYM KPSS Ön Lisans Soru Cevap Anahtarı Açıklandı Mı? Cevaplar Nereden Sorgulanır?",
+          "url": "https://www.cnnturk.com/egitim/2026-kpss-on-lisans-soru-cevaplari-osym-kpss-on-lisans-soru-cevap-anahtari-aciklandi-mi-cevaplar-nereden-sorgulanir-3474712",
+          "published": "2026-10-04T16:08:57.000Z",
+          "source_id": "cnnturk"
+        }
+      ]
+    },
+    {
+      "id": "trt:https://www.trthaber.com/haber/egitim/kpss-on-lisans-heyecani-pazar-gunu-yasanacak-958895.html",
+      "title": "KPSS Ön Lisans heyecanı pazar günü yaşanacak",
+      "url": "https://www.trthaber.com/haber/egitim/kpss-on-lisans-heyecani-pazar-gunu-yasanacak-958895.html",
+      "published": "2026-10-02T08:34:00.000Z",
+      "source_id": "trt",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1690000/kpss-aa-1690699.jpg",
+      "also": [
+        {
+          "id": "hurriyet:https://www.hurriyet.com.tr/egitim/kpss-on-lisans-pazar-gunu-yapilacak-43327078",
+          "title": "KPSS Ön Lisans pazar günü yapılacak",
+          "url": "https://www.hurriyet.com.tr/egitim/kpss-on-lisans-pazar-gunu-yapilacak-43327078",
+          "published": "2026-10-02T09:09:13.000Z",
+          "source_id": "hurriyet"
+        },
+        {
+          "id": "milliyet:https://www.milliyet.com.tr/egitim/kpss-on-lisans-sinavi-icin-nufus-mudurlukleri-pazar-gunu-acik-olacak-7671461",
+          "title": "KPSS ön lisans sınavı için nüfus müdürlükleri pazar günü açık olacak",
+          "url": "https://www.milliyet.com.tr/egitim/kpss-on-lisans-sinavi-icin-nufus-mudurlukleri-pazar-gunu-acik-olacak-7671461",
+          "published": "2026-10-02T06:59:04.000Z",
+          "source_id": "milliyet"
+        }
+      ]
+    },
+    {
+      "id": "cnnturk:https://www.cnnturk.com/egitim/kpss-lisans-sonuc-sorgulama-tarihi-2026-kpss-sonuclari-ne-zaman-aciklanacak-3473776",
+      "title": "KPSS LİSANS SONUÇ SORGULAMA TARİHİ 2026: KPSS sonuçları ne zaman açıklanacak?",
+      "url": "https://www.cnnturk.com/egitim/kpss-lisans-sonuc-sorgulama-tarihi-2026-kpss-sonuclari-ne-zaman-aciklanacak-3473776",
+      "published": "2026-10-02T01:42:26.000Z",
+      "source_id": "cnnturk",
+      "image": "https://image.cnnturk.com/i/cnnturk/75/720x490/6abee1d1650dbd63588b9a48.jpg"
+    },
+    {
+      "id": "trt:https://www.trthaber.com/haber/egitim/osym-hafta-sonu-3-sinav-duzenleyecek-958125.html",
+      "title": "ÖSYM hafta sonu 3 sınav düzenleyecek",
+      "url": "https://www.trthaber.com/haber/egitim/osym-hafta-sonu-3-sinav-duzenleyecek-958125.html",
+      "published": "2026-09-25T10:42:00.000Z",
+      "source_id": "trt",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1690000/osym-aa-1690834.jpg",
+      "also": [
+        {
+          "id": "cnnturk:https://www.cnnturk.com/egitim/hafta-sonu-sinav-var-mi-26-27-eylulde-hangi-sinavlar-yapilacak-osym-sinav-takvimi-3471315",
+          "title": "HAFTA SONU SINAV VAR MI? 26-27 Eylül'de Hangi Sınavlar Yapılacak? ÖSYM Sınav Takvimi",
+          "url": "https://www.cnnturk.com/egitim/hafta-sonu-sinav-var-mi-26-27-eylulde-hangi-sinavlar-yapilacak-osym-sinav-takvimi-3471315",
+          "published": "2026-09-27T09:13:14.000Z",
+          "source_id": "cnnturk"
+        }
+      ]
+    },
+    {
+      "id": "trt:https://www.trthaber.com/haber/egitim/kpss-on-lisans-sinavi-icin-giris-belgeleri-erisimde-957961.html",
+      "title": "KPSS Ön Lisans sınavı için giriş belgeleri erişimde",
+      "url": "https://www.trthaber.com/haber/egitim/kpss-on-lisans-sinavi-icin-giris-belgeleri-erisimde-957961.html",
+      "published": "2026-09-24T08:10:00.000Z",
+      "source_id": "trt",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1690000/kpss-aa-1690699.jpg"
+    },
+    {
+      "id": "trt:https://www.trthaber.com/haber/egitim/kpss-din-hizmetleri-alan-bilgisi-sinavi-basvurulari-basladi-957638.html",
+      "title": "KPSS Din Hizmetleri Alan Bilgisi Sınavı başvuruları başladı",
+      "url": "https://www.trthaber.com/haber/egitim/kpss-din-hizmetleri-alan-bilgisi-sinavi-basvurulari-basladi-957638.html",
+      "published": "2026-09-22T08:40:00.000Z",
+      "source_id": "trt",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2376000/sinav-2377406.jpg"
+    },
+    {
+      "id": "trt:https://www.trthaber.com/haber/egitim/sanliurfada-kpssye-giren-392-aday-icin-es-deger-sinav-karari-957030.html",
+      "title": "Şanlıurfa'da KPSS'ye giren 392 aday için eş değer sınav kararı",
+      "url": "https://www.trthaber.com/haber/egitim/sanliurfada-kpssye-giren-392-aday-icin-es-deger-sinav-karari-957030.html",
+      "published": "2026-09-16T13:38:00.000Z",
+      "source_id": "trt",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1690000/osym-aa-1690834.jpg",
+      "also": [
+        {
+          "id": "hurriyet:https://www.hurriyet.com.tr/gundem/osymden-flas-kpss-karari-392-adaya-es-deger-sinav-yapilacak-43309012",
+          "title": "ÖSYM'den flaş KPSS kararı: 392 adaya eş değer sınav yapılacak",
+          "url": "https://www.hurriyet.com.tr/gundem/osymden-flas-kpss-karari-392-adaya-es-deger-sinav-yapilacak-43309012",
+          "published": "2026-09-16T13:37:00.000Z",
+          "source_id": "hurriyet"
+        }
+      ]
+    },
+    {
+      "id": "trt:https://www.trthaber.com/haber/egitim/kpss-alan-bilgisi-ucuncu-oturumu-yapildi-956701.html",
+      "title": "KPSS Alan Bilgisi üçüncü oturumu yapıldı",
+      "url": "https://www.trthaber.com/haber/egitim/kpss-alan-bilgisi-ucuncu-oturumu-yapildi-956701.html",
+      "published": "2026-09-13T10:08:00.000Z",
+      "source_id": "trt",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2486000/kpss-aa-2487923.jpg"
+    },
+    {
+      "id": "trt:https://www.trthaber.com/haber/egitim/kpss-alan-bilgisi-oturumlari-hafta-sonu-yapilacak-956546.html",
+      "title": "KPSS Alan Bilgisi oturumları hafta sonu yapılacak",
+      "url": "https://www.trthaber.com/haber/egitim/kpss-alan-bilgisi-oturumlari-hafta-sonu-yapilacak-956546.html",
+      "published": "2026-09-11T07:24:00.000Z",
+      "source_id": "trt",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2080000/kpss-aa-2081588.jpg"
+    }
+  ]
+}
