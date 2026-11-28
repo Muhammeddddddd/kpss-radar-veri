@@ -1,0 +1,1834 @@
+{
+  "schema_version": 3,
+  "checked_at": "2026-11-28T17:05:18.857705+03:00",
+  "coverage": {
+    "listed": 119,
+    "reported_total": 119,
+    "listing_complete": true,
+    "candidates": 43,
+    "records": 38,
+    "outcomes": {
+      "verified": 38,
+      "deadline_unreadable": 4,
+      "closed": 1
+    }
+  },
+  "records": [
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2305859/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-selcuk-universitesi-rektorlugu-sozlesmeli-bilisim-personeli-alim-ilani",
+      "title": "Selçuk Üniversitesi Rektörlüğü Sözleşmeli Bilişim Personeli Alım İlanı",
+      "institution": "SELÇUK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-27",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-14",
+      "application_start": "2026-11-27",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …birimi telefon : 0 (332) 223 81 18 ilan tarihi : 27/11/2026 son basvuru tarihi : 14/12/2026 sonuc ilan tarihi : 18/12/2026 sozlu/uygulamali sinav tarihi : 28/12/2026…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim"
+        ],
+        "personnel_types": [
+          "Diğer sözleşmeli"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2305857/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-disisleri-bakanligi-avrupa-birligi-baskanligi-sozlesmeli-destek-personeli-alim-ilani",
+      "title": "Dışişleri Bakanlığı Avrupa Birliği Başkanlığı Sözleşmeli Destek Personeli Alım İlanı",
+      "institution": "T.C DIŞİŞLERİ BAKANLIĞI AVRUPA BİRLİĞİ BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-27",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-14",
+      "application_start": "2026-11-27",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …iyor olmak. 3. basvuru sekli, tarihi ve yeri a. basvurular; 27/11/2026-14/12/2026 tarihleri arasinda e-devlet / cumhurbaskanligi kariyer kapisi ( https://kariyerkapisi.go…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P93",
+          "P94"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Ön lisans",
+          "Ortaöğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "Diğer sözleşmeli"
+        ],
+        "evidence": {
+          "score_type": "P93, P94",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2304217/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-ozburun-belediye-baskanligi-surekli-isci-alim-ilani",
+      "title": "Özburun Belediye Başkanlığı Sürekli İşçi Alım İlanı",
+      "institution": "ÖZBURUN BELEDİYE BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": false,
+      "notice_date": "2026-11-26",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-04",
+      "application_start": "2026-12-03",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …0. iskur web sayfasi uzerinden basvuru yapan adaylar sahsen 03/12/2026-04/12/2026 tarihleri arasinda basvuruda bulundugu kadroya iliskin tum evraklarini ozburun belediyes…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Ortaöğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": true,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Ehliyet",
+          "Deneyim",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "İşçi"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Afyonkarahisar"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2304216/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-mersin-universitesi-rektorlugu-sozlesmeli-bilisim-personeli-alim-ilani",
+      "title": "Mersin Üniversitesi Rektörlüğü Sözleşmeli Bilişim Personeli Alım İlanı",
+      "institution": "MERSİN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-26",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-10",
+      "application_start": "2026-11-26",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …cikacaktir. sinav takvimi basvuru baslama tarihi 26.11.2026 basvuru bitis tarihi 10.12.2026 (saat 23:59:59 a kadar) on degerlendirme sonuc aciklama tarihi 18.12.2026 on d…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Deneyim"
+        ],
+        "personnel_types": [
+          "Diğer sözleşmeli"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Mersin"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2302683/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-rekabet-kurumu-baskanligindan-uzman-yardimcisi-alim-ilani",
+      "title": "Rekabet Kurumu Başkanlığından Uzman Yardımcısı Alım İlanı",
+      "institution": "REKABET KURUMU BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-25",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-21",
+      "application_start": "2026-12-07",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …atanacaktir. sinava basvuru sinava katilmak isteyen adaylar 07.12.2026 - 21.12.2026 tarihleri arasinda e-devlet - rekabet kurumu - kariyer kapisi kamu ise alim veya kariy…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "bilgisayar muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2301151/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kultur-ve-turizm-bakanligi-kultur-ve-turizm-uzman-yardimciligi-yarisma-sinav-ilani",
+      "title": "Kültür ve Turizm Bakanlığı Kültür ve Turizm Uzman Yardımcılığı Yarışma Sınav İlanı",
+      "institution": "KÜLTÜR VE TURİZM BAKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-24",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-23",
+      "application_start": "2026-12-09",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: ….) ii- basvuru sekli ve yeri: basvurular elektronik ortamda 09.12.2026-23.12.2026 tarihleri arasinda, e-devlet uzerinden kultur ve turizm bakanligi veya kariyer kapisi ht…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "cevre muhendisligi",
+          "makine muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2299814/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-icisleri-bakanligi-1170-sozlesmeli-personel-alim-ilani",
+      "title": "İçişleri Bakanlığı 1170 Sözleşmeli Personel Alım İlanı",
+      "institution": "İÇİŞLERİ BAKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-23",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-11",
+      "application_start": "2026-12-07",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …eden veya tercihlerinde degisiklik yapmak isteyen adaylarin en gec 11.12.2026 tarihinde saat 16.00’ya kadar “basvurumu iptal et ve yeniden basvur” butonuna basarak basvur…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [
+          "2026"
+        ],
+        "min_score": null,
+        "education_levels": [
+          "Lisans",
+          "Ön lisans",
+          "Ortaöğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "bilgisayar muhendisligi",
+          "cevre muhendisligi",
+          "elektrik muhendisligi",
+          "elektronik muhendisligi",
+          "insaat muhendisligi",
+          "makine muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Güvenlik kimliği",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "Diğer sözleşmeli"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "2026",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Adana",
+          "Adıyaman",
+          "Afyonkarahisar",
+          "Ağrı",
+          "Amasya",
+          "Ankara",
+          "Antalya",
+          "Artvin",
+          "Aydın",
+          "Balıkesir",
+          "Bilecik",
+          "Bingöl",
+          "Bitlis",
+          "Bolu",
+          "Burdur",
+          "Bursa",
+          "Çanakkale",
+          "Çankırı",
+          "Çorum",
+          "Denizli",
+          "Diyarbakır",
+          "Edirne",
+          "Elazığ",
+          "Erzincan",
+          "Erzurum",
+          "Eskişehir",
+          "Gaziantep",
+          "Giresun",
+          "Gümüşhane",
+          "Hakkâri",
+          "Hatay",
+          "Isparta",
+          "Mersin",
+          "İstanbul",
+          "İzmir",
+          "Kars",
+          "Kastamonu",
+          "Kayseri",
+          "Kırklareli",
+          "Kırşehir",
+          "Kocaeli",
+          "Konya",
+          "Kütahya",
+          "Malatya",
+          "Manisa",
+          "Kahramanmaraş",
+          "Mardin",
+          "Muğla",
+          "Muş",
+          "Nevşehir",
+          "Niğde",
+          "Ordu",
+          "Rize",
+          "Sakarya",
+          "Samsun",
+          "Siirt",
+          "Sinop",
+          "Sivas",
+          "Tekirdağ",
+          "Tokat",
+          "Trabzon",
+          "Tunceli",
+          "Şanlıurfa",
+          "Uşak",
+          "Van",
+          "Yozgat",
+          "Zonguldak",
+          "Aksaray",
+          "Bayburt",
+          "Karaman",
+          "Kırıkkale",
+          "Batman",
+          "Şırnak",
+          "Bartın",
+          "Ardahan",
+          "Iğdır",
+          "Yalova",
+          "Karabük",
+          "Kilis",
+          "Osmaniye",
+          "Düzce"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2299686/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-ankara-yildirim-beyazit-universitesi-sozlesmeli-bilisim-personeli-alim-ilani",
+      "title": "Ankara Yıldırım Beyazıt Üniversitesi Sözleşmeli Bilişim Personeli Alım İlanı",
+      "institution": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-23",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-07",
+      "application_start": "2026-11-23",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …riyer kapisi https://kariyerkapisi.gov.tr/ adresi uzerinden 23.11.2026 - 07.12.2026 tarihleri arasinda yapacaklardir. basvurular, baslangic tarihinde saat 09.00 itibariyl…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "bilgisayar muhendisligi",
+          "elektrik muhendisligi",
+          "elektronik muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Deneyim"
+        ],
+        "personnel_types": [
+          "Diğer sözleşmeli"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2299654/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-turk akreditasyon kurumundan-sozlesmeli-koruma-ve-guvenlik-gorevlisi-alim-ilani",
+      "title": "Türk Akreditasyon Kurumundan Sözleşmeli Koruma ve Güvenlik Görevlisi Alım İlanı",
+      "institution": "(TÜRKAK) TÜRK AKREDİTASYON KURUMU BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-23",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-07",
+      "application_start": "2026-11-23",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …er kapisi “ https://kariyerkapisi.gov.tr ” adresi uzerinden 23.11.2026 ve 07.12.2026 tarihleri arasinda cevrimici olarak yapilacaktir. basvurular 07.12.2026 tarihinde saa…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [
+          "2026"
+        ],
+        "min_score": null,
+        "education_levels": [
+          "Lisans",
+          "Ön lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "Diğer sözleşmeli"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "2026",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2298310/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-adalet-bakanligi-adli-tip-kurumu-baskanligi-sozlesmeli-personel-alim-ilani",
+      "title": "Adalet Bakanlığı Adli Tıp Kurumu Başkanlığı Sözleşmeli Personel Alım İlanı",
+      "institution": "ADALET BAKANLIĞI ADLİ TIP KURUMU",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-20",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-06",
+      "application_start": "2026-11-30",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …basvuru yapabileceklerdir. 6) basvuru tarihleri: basvurular 30 kasim 2026 pazartesi gunu saat 09:00'da baslayip, 06 aralik 2026 pazar gunu saat 23:59 itibariyla sona erec…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3",
+          "P93",
+          "P94"
+        ],
+        "exam_years": [
+          "2026"
+        ],
+        "min_score": null,
+        "education_levels": [
+          "Lisans",
+          "Ön lisans",
+          "Ortaöğretim"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "bilgisayar muhendisligi",
+          "elektronik muhendisligi",
+          "makine muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "Diğer sözleşmeli"
+        ],
+        "evidence": {
+          "score_type": "P3, P93, P94",
+          "exam_year": "2026",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Adana",
+          "Ağrı",
+          "Ankara",
+          "Antalya",
+          "Artvin",
+          "Aydın",
+          "Bursa",
+          "Denizli",
+          "Diyarbakır",
+          "Erzurum",
+          "Gaziantep",
+          "Hatay",
+          "İstanbul",
+          "İzmir",
+          "Kayseri",
+          "Konya",
+          "Malatya",
+          "Muğla",
+          "Samsun",
+          "Trabzon",
+          "Şanlıurfa",
+          "Van"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2298125/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-bartin-universitesi-rektorlugu-sozlesmeli-personel-alim-ilani",
+      "title": "Bartın Üniversitesi Rektörlüğü Sözleşmeli Personel Alım İlanı",
+      "institution": "BARTIN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-20",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-05",
+      "application_start": "2026-11-20",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …2026 basvuru baslangic tarihi : 20 kasim 2026 (saat 09.00) son basvuru tarihi : 05 aralik 2026 (saat 13.00) aday basvuru bilgileri belgesinin elden son teslim tarihi: 08…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P93"
+        ],
+        "exam_years": [
+          "2026"
+        ],
+        "min_score": null,
+        "education_levels": [
+          "Ön lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "İkamet koşulu"
+        ],
+        "personnel_types": [
+          "Diğer sözleşmeli"
+        ],
+        "evidence": {
+          "score_type": "P93",
+          "exam_year": "2026",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Bartın"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2296809/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-sosyal-guvenlik-kurumu-baskanligi-mufettis-yardimciligi-giris-sinavi-ilani",
+      "title": "Sosyal Güvenlik Kurumu Başkanlığı Müfettiş Yardımcılığı Giriş Sınavı İlanı",
+      "institution": "SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": false,
+      "notice_date": "2026-11-19",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-18",
+      "application_start": "2026-12-07",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …ere toplam uc oturum seklinde yapilacaktir. - yazili sinava basvuru tarihleri: 07.12.2026 -18.12.2026 tarihleri arasi. - yazili sinavin yapilacagi yer: sosyal guvenlik ku…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [
+          "2026"
+        ],
+        "min_score": 70.0,
+        "education_levels": [],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "2026",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2296742/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-bolu-ili-mudurnu-belediye-baskanligi-sozlesmeli-personel-alim-ilani",
+      "title": "Bolu İli Mudurnu Belediye Başkanlığı Sözleşmeli Personel Alım İlanı",
+      "institution": "MUDURNU BELEDİYE BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-19",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-25",
+      "application_start": "2026-12-14",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …sinava katilabilmek icin; a) elektronik ortamda basvurular, 14/12/2026-25/12/2026 tarihleri arasinda istenilen belgeler eklenmek suretiyle belediyemizin mudurnu@mudurnu.b…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": 75.0,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "harita muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "Diğer sözleşmeli"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Bolu"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2293975/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-icisleri-bakanligi-kaymakam-adayligi-sinav-ilani",
+      "title": "İçişleri Bakanlığı Kaymakam Adaylığı Sınav İlanı",
+      "institution": "İÇİŞLERİ BAKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-19",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-07",
+      "application_start": "2026-12-01",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …sinav ilani ve basvurularin alinmasi sinava on basvurular, 1-7 aralik 2026 tarihleri arasinda olacaktir. adaylar on basvurularini osym basvuru merkezleri araciligiyla ve…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2292309/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-anadolu-universitesi-rektorlugu-sozlesmeli-personel-alim-ilani",
+      "title": "Anadolu Üniversitesi Rektörlüğü Sözleşmeli Personel Alım İlanı",
+      "institution": "ANADOLU ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-16",
+      "notice_date_kind": "published",
+      "deadline": "2026-11-30",
+      "application_start": "2026-11-16",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …ilir. b) basvuru islemleri • basvurular, elektronik ortamda 16.11.2026 - 30.11.2026 tarihleri arasinda e-devlet uzerinden anadolu universitesi - kariyer kapisi kamu ise a…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [
+          "2026"
+        ],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "cevre muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "Diğer sözleşmeli"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "2026",
+          "codes": ""
+        },
+        "cities_mentioned": [],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2292280/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-afet-ve-acil-durum-yonetimi-baskanligi-denetci-yardimcisi-giris-sinavi-ilani",
+      "title": "Afet ve Acil Durum Yönetimi Başkanlığı Denetçi Yardımcısı Giriş Sınavı İlanı",
+      "institution": "T.C. İÇİŞLERİ BAKANLIĞI AFET VE ACİL DURUM YÖNETİMİ BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-16",
+      "notice_date_kind": "published",
+      "deadline": "2026-11-30",
+      "application_start": null,
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …e zamani: 3.1. adaylar basvurularini, 23 kasim 2026 saat 10:00 - 30 kasim 2026 saat 17:00 arasinda kariyer kapisi ( kariyerkapisi.gov.tr ) adresi uzerinden elektronik ort…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "bilgisayar muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2292235/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-afet-ve-acil-durum-yonetimi-baskanligi-uzman-yardimcisi-giris-sinavi-ilani",
+      "title": "Afet ve Acil Durum Yönetimi Başkanlığı Uzman Yardımcısı Giriş Sınavı İlanı",
+      "institution": "T.C. İÇİŞLERİ BAKANLIĞI AFET VE ACİL DURUM YÖNETİMİ BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-16",
+      "notice_date_kind": "published",
+      "deadline": "2026-11-30",
+      "application_start": null,
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …ve zamani 3.1. adaylar basvurularini, 23 kasim 2026 saat 10:00 - 30 kasim 2026 saat 17:00 arasinda kariyer kapisi (kariyerkapisi.gov.tr) adresi uzerinden elektronik ortam…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2292490/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-dicle-kalkinma-ajansi-personel-alim-ilani",
+      "title": "Dicle Kalkınma Ajansı Personel Alım İlanı",
+      "institution": "DİCLE KALKINMA AJANSI GENEL SEKRETERLİĞİ",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-14",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-18",
+      "application_start": "2026-12-04",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …kin bilgiler basvuru resmi gazete ilan tarihi 14 kasim 2026 basvuru tarihleri 4 aralik 2026- 18 aralik 2026 basvuru yeri https://kariyerkapisi.gov.tr sozlu yarisma sinavi…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "bilgisayar muhendisligi",
+          "cevre muhendisligi",
+          "elektrik muhendisligi",
+          "elektronik muhendisligi",
+          "insaat muhendisligi",
+          "makine muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Mardin",
+          "Siirt",
+          "Batman",
+          "Şırnak"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2290015/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-yuksekogretim-kalite-kurulu-baskanligi-uzman-yardimcisi-alim-ilani",
+      "title": "Yükseköğretim Kalite Kurulu Başkanlığı Uzman Yardımcısı Alım İlanı",
+      "institution": "YÜKSEKÖĞRETİM KALİTE KURULU BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-13",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-14",
+      "application_start": "2026-12-01",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …. 1 4 2) basvuru tarihi ve sekli basvurular dijital ortamda 01/12/2026-14/12/2026 tarihleri arasinda alinacaktir. adaylar, basvurularini 14/12/2026 tarihi saat 23:59:59’a…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2289997/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-stajyer-hazine-kontrolorlugu-giris-sinavi-ilani",
+      "title": "Stajyer Hazine Kontrolörlüğü Giriş Sınavı İlanı",
+      "institution": "HAZİNE KONTROLÖRLERİ KURULU BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-13",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-04",
+      "application_start": "2026-11-23",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …i, tarihi ve gerekli belgeler giris sinavi icin basvurular, 23.11.2026 - 04.12.2026 tarihleri arasinda e-devlet (hazine ve maliye bakanligi/kariyer kapisi kamu ise alim)…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2288341/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-cumhurbaskanligi-savunma-sanayii-baskanligindan-sozlesmeli-personel-alim-ilani",
+      "title": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığından Sözleşmeli Personel Alım İlanı",
+      "institution": "T.C.CUMHURBAŞKANLIĞI SAVUNMA SANAYİİ BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-12",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-21",
+      "application_start": "2026-11-20",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …veri bilimi c. basvuru tarihi, yeri ve sekli (1) basvurular 20 kasim 2026 cuma gunu saat 10:00'da baslayip 21 aralik 2026 pazartesi gunu saat 23:59 itibariyla sona erecek…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "İkamet koşulu",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "Diğer sözleşmeli"
+        ],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2283099/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-tanoba-belediye-baskanligi-personel-alim-ilani",
+      "title": "Tanoba Belediye Başkanlığı Personel Alım İlanı",
+      "institution": "TANOBA BELEDİYE BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-09",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-18",
+      "application_start": "2026-12-16",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …sinava katilabilmek icin; a) elektronik ortamda basvurular, 16/12/2026-18/12/2026 tarihleri arasinda istenilen belgeler eklenmek suretiyle belediyemizin bilgi@tanoba.bel.…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P93"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Ön lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "P93",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Tokat"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2283096/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-bozkoy-belediye-baskanligi-personel-alim-ilani",
+      "title": "Bozköy Belediye Başkanlığı Personel Alım İlanı",
+      "institution": "BOZKÖY BELEDİYE BŞK.",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-09",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-23",
+      "application_start": "2026-12-21",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …katilabilmek icin; a) yukarida sayilan basvuru belgelerini 21/12/2026 - 23/12/2026 tarihleri arasinda mesai saatleri icerisinde (08:30/12:30 - 13:30/17:30 arasinda) yeni…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Niğde"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2283081/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-akseki-belediye-baskanligi-memur-alim-ilani",
+      "title": "Akseki Belediye Başkanlığı Memur Alım İlanı",
+      "institution": "AKSEKİ BELEDİYE BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-09",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-25",
+      "application_start": "2026-12-21",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …sinava katilabilmek icin; a) elektronik ortamda basvurular, 21/12/2026 - 25/12/2026 tarihleri arasinda istenilen belgeler eklenmek suretiyle belediyemizin insankaynaklari…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": 75.0,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "harita muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "Memur"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Antalya"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2283208/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-ula-belediye-baskanligi-zabita-memuru-alim-ilani",
+      "title": "Ula Belediye Başkanlığı Zabıta Memuru Alım İlanı",
+      "institution": "ULA BELEDİYE BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-07",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-23",
+      "application_start": "2026-12-21",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …a katilabilmek icin; a)yukarida sayilan basvuru belgelerini 21/12/2026-23/12/2026 tarihleri arasinda mesai saatleri icerisinde (mesai gunlerinde saat 10:00-16:00 arasinda…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [
+          "P93"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Ön lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "Memur"
+        ],
+        "evidence": {
+          "score_type": "P93",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Muğla"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2283105/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-gundogmus-belediye-baskanligi-memur-alim-ilani",
+      "title": "Gündoğmuş Belediye Başkanlığı Memur Alım İlanı",
+      "institution": "GÜNDOĞMUŞ BELEDİYE BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-07",
+      "notice_date_kind": "published",
+      "deadline": "2027-01-05",
+      "application_start": "2026-12-21",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …sinava katilabilmek icin; a)elektronik ortamda basvurular, 21/12/2026-05/01/2027 tarihleri arasinda istenilen belgeler eklenmek suretiyle belediyemizin belediye@gundogmu…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": 60.0,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "insaat muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "Memur"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Antalya"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2279181/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-eleskirt-belediye-baskanligi-itfaiye-eri-alim-ilani",
+      "title": "Eleşkirt Belediye Başkanlığı İtfaiye Eri Alım İlanı",
+      "institution": "ELEŞKİRT BELEDİYE BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-05",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-11",
+      "application_start": "2026-12-09",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …: adaylar, sozlu ve uygulamali sinava katilabilmek icin; a) 09/12/2026 tarihinden 11/12/2026 tarihi mesai bitimine kadar, yukarida sayilan belgeler ile birlikte, boy ve k…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "Memur"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ağrı"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2277600/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-zafer-kalkinma-ajansi-personel-alim-ilani",
+      "title": "Zafer Kalkınma Ajansı Personel Alım İlanı",
+      "institution": "ZAFER KALKINMA AJANSI GENEL SEKRETERLİK",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-04",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-14",
+      "application_start": "2026-11-25",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …uygun gorecegi bu illerin birinde gorevlendirileceklerdir. basvuru tarihleri 25.11.2026 - 14.12.2026 mulakata katilmaya hak kazananlarin ilani 18.12.2026 mulakat tarihle…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans",
+          "Ön lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Afyonkarahisar",
+          "Kütahya",
+          "Manisa",
+          "Uşak"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2275940/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-kultur ve turizm bakanligi turkiye turizm tanitim ve gelistirme ajansindan-personel-alim-ilani",
+      "title": "Kültür ve Turizm Bakanlığı Türkiye Turizm Tanıtım ve Geliştirme Ajansından Personel Alım İlanı",
+      "institution": "KÜLTÜR VE TURİZM BAKANLIĞI TÜRKİYE TURİZM TANITIM VE GELİŞTİRME AJANSI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-03",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-04",
+      "application_start": "2026-11-03",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …zel sartlar aranir. b. basvuru tarihi ve sekli 1.basvurular 03 kasim 2026 tarihinde baslayip, 04 aralik 2026 tarihinde sona erecektir. 2.adaylar basvurularini, tga web si…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika",
+          "Deneyim",
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2274511/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-dogu karadeniz kalkinma ajansindan -doka-personel-alim-ilani",
+      "title": "Doğu Karadeniz Kalkınma Ajansından (DOKA) Personel Alım İlanı",
+      "institution": "DOĞU KARADENİZ KALKINMA AJANSI GENEL SEKRETERLİĞİ (DOKA)",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-02",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-06",
+      "application_start": "2026-11-23",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …hut etmis sayilir. tablo 1.basvuru ve sozlu sinav tarihleri basvuru tarihleri 23.11.2026-06.12.2026 sinav sekli sozlu sinav (mulakat) sinava katilmaya hak kazananlarin il…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [],
+        "exam_years": [
+          "2026"
+        ],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "2026",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Artvin",
+          "Giresun",
+          "Gümüşhane",
+          "Ordu",
+          "Rize",
+          "Trabzon"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2274518/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-gaziosmanpasa-belediye-baskanligi-zabita-memuru-alim-ilani",
+      "title": "Gaziosmanpaşa Belediye Başkanlığı Zabıta Memuru Alım İlanı",
+      "institution": "GAZİOSMANPAŞA BELEDİYE BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-01",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-11",
+      "application_start": "2026-12-07",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …katilabilmek icin; a) yukarida sayilan basvuru belgelerini 07/12/2026-11/12/2026 tarihleri arasinda mesai saatleri icerisinde (mesai gunlerinde saat 09.30-16.30 arasinda…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3",
+          "P93"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans",
+          "Ön lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "cevre muhendisligi",
+          "insaat muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "Memur"
+        ],
+        "evidence": {
+          "score_type": "P3, P93",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "İstanbul"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2274512/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-eyyubiye-belediye-baskanligi-zabita-memuru-alim-ilani",
+      "title": "Eyyübiye Belediye Başkanlığı Zabıta Memuru Alım İlanı",
+      "institution": "EYYÜBİYE BELEDİYE BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-11-01",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-10",
+      "application_start": "2026-12-07",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …katilabilmek icin; a) yukarida sayilan basvuru belgelerini 07/12/2026-10/12/2026 tarihleri arasinda mesai saatleri icerisinde (mesai gunlerinde saat 08.00-12.00/13.00-17…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": 60.0,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": true,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [
+          "Memur"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Mardin",
+          "Şanlıurfa"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2272749/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-asarcik-belediye-baskanligi-memur-alim-ilani",
+      "title": "Asarcık Belediye Başkanlığı Memur Alım İlanı",
+      "institution": "ASARCIK BELEDİYE BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-10-30",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-03",
+      "application_start": "2026-12-01",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …sinava katilabilmek icin; a) elektronik ortamda basvurular, 01/12/2026 - 3/12/2026 istenilen belgeler eklenmek suretiyle, belediyemizin ik@asarcik.bel.tr mail/internet ad…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "Memur"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Samsun"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2271463/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-elazig-il-ozel-idaresi-sozlesmeli-personel-alim-ilani",
+      "title": "Elazığ İl Özel İdaresi Sözleşmeli Personel Alım İlanı",
+      "institution": "ELAZIĞ İL ÖZEL İDARESİ",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-10-28",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-09",
+      "application_start": "2026-11-30",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …sinava katilabilmek icin; a)elektronik ortamda basvurular, 30/11/2026 - 09/12/2026 tarihleri arasinda istenilen belgeler eklenmek suretiyle elazig il ozel idaresine ait…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "Diğer sözleşmeli"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Elazığ"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2266555/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-manisa ili akhisar belediye baskanligindan-memur-alim-ilani",
+      "title": "Manisa İli Akhisar Belediye Başkanlığından Memur Alım İlanı",
+      "institution": "AKHİSAR BELEDİYE BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-10-23",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-11",
+      "application_start": "2026-11-30",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …sinava katilabilmek icin; a) elektronik ortamda basvurular, 30.11.2026 - 11.12.2026 tarihleri arasinda istenilen belgeler eklenmek suretiyle belediyemizin insankaynaklari…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "single_role",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": 70.0,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "makine muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [],
+        "personnel_types": [
+          "Memur"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Manisa"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2263556/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-doganyol-belediye-baskanligi-sozlesmeli-personel-alim-ilani",
+      "title": "Doğanyol Belediye Başkanlığı Sözleşmeli Personel Alım İlanı",
+      "institution": "DOĞANYOL BELEDİYE BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-10-21",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-04",
+      "application_start": "2026-12-02",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …sinava katilabilmek icin; a) elektronik ortamda basvurular, 02/12/2026-04/12/2026 tarihleri arasinda istenilen belgeler eklenmek suretiyle belediyemizin bilgi@doganyol.be…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Sertifika"
+        ],
+        "personnel_types": [
+          "Diğer sözleşmeli"
+        ],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Malatya"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2261343/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-orta-anadolu-kalkinma-ajansindan-personel-alim-ilani",
+      "title": "Orta Anadolu Kalkınma Ajansından Personel Alım İlanı",
+      "institution": "ORTA ANADOLU KALKINMA AJANSI GENEL SEKRETERLİĞİ",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-10-19",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-03",
+      "application_start": "2026-11-09",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …irlar. tablo 1. personel alim sureci ilan tarihi 19/10/2026 basvuru tarihleri 09/11/2026 - 03/12/2026 sinav sekli sozlu sinav (mulakat) sinava katilmaya hak kazananlarin…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [
+          "P3"
+        ],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [
+          "cevre muhendisligi"
+        ],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Deneyim"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "P3",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Kayseri",
+          "Sivas",
+          "Yozgat"
+        ],
+        "nationwide": false
+      }
+    },
+    {
+      "url": "https://www.ilan.gov.tr/ilan/2257554/kamu-akademik-personel-kamu-personel-alim-ve-sinavlari-ankara-buyuksehir-belediye-baskanligi-mufettis-yardimcisi-alim-ilani",
+      "title": "Ankara Büyükşehir Belediye Başkanlığı Müfettiş Yardımcısı Alım İlanı",
+      "institution": "ANKARA BÜYÜKŞEHİR BELEDİYE BAŞKANLIĞI",
+      "source_id": "ilan",
+      "source_name": "İlan.gov.tr",
+      "hiring_feed": true,
+      "notice_date": "2026-10-15",
+      "notice_date_kind": "published",
+      "deadline": "2026-12-04",
+      "application_start": "2026-11-23",
+      "date_method": "official_api_detail",
+      "text": "İlan metninden okunan başvuru bilgisi: …ve basvuru esnasinda istenilen diger belgeler ile birlikte 23.11.2026 - 04.12.2026 tarihleri arasinda mesai saati bitimine kadar (08.30-12.30/13.30-17.30) emniyet mahall…",
+      "criteria": {
+        "source": "official_notice",
+        "scope": "multiple_or_unknown",
+        "score_types": [],
+        "exam_years": [],
+        "min_score": null,
+        "education_levels": [
+          "Lisans"
+        ],
+        "education_codes": [],
+        "education_minimum": false,
+        "degree_terms": [],
+        "any_bachelor_degree": false,
+        "special_conditions": [
+          "Yaş koşulu"
+        ],
+        "personnel_types": [],
+        "evidence": {
+          "score_type": "",
+          "exam_year": "",
+          "codes": ""
+        },
+        "cities_mentioned": [
+          "Ankara"
+        ],
+        "nationwide": false
+      }
+    }
+  ]
+}
